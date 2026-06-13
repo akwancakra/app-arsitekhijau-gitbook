@@ -1,7 +1,6 @@
 ---
-description: >-
-  Panduan untuk approver dalam menyetujui atau menolak pengajuan cuti.
-icon: check-circle
+description: Panduan untuk approver dalam menyetujui atau menolak pengajuan cuti.
+icon: clipboard-check
 ---
 
 # Approval Cuti
@@ -17,12 +16,13 @@ Halaman ini khusus untuk **approver** (atasan / manager) yang bertugas menyetuju
 3. Lihat daftar pengajuan cuti bawahan yang **Pending**
 
 Setiap item menampilkan:
-- **Nama pengaju**
-- **Jenis cuti**
-- **Tanggal** (mulai - selesai)
-- **Durasi**
-- **Alasan**
-- **Waktu pengajuan**
+
+* **Nama pengaju**
+* **Jenis cuti**
+* **Tanggal** (mulai - selesai)
+* **Durasi**
+* **Alasan**
+* **Waktu pengajuan**
 
 ## Detail Pengajuan
 
@@ -31,23 +31,22 @@ Tap pada salah satu request untuk melihat detail lengkap:
 ![Detail approval — informasi cuti, lampiran, dan tombol setujui/tolak](https://placehold.co/600x1200/1a1a2e/ffffff?text=detail-approval)
 
 Detail meliputi:
-- Informasi lengkap cuti
-- Riwayat cuti karyawan tersebut
-- Lampiran (jika ada)
-- Tombol **Setujui** (Approve) dan **Tolak** (Reject)
+
+* Informasi lengkap cuti
+* Riwayat cuti karyawan tersebut
+* Lampiran (jika ada)
+* Tombol **Setujui** (Approve) dan **Tolak** (Reject)
 
 {% tabs %}
 {% tab title="Menyetujui Cuti" %}
-
 ### Cara Menyetujui
 
 1. Tap **Setujui** (Approve)
 2. (Opsional) Tambahkan **catatan** untuk pengaju
 3. Konfirmasi
-
 {% endtab %}
-{% tab title="Menolak Cuti" %}
 
+{% tab title="Menolak Cuti" %}
 ### Cara Menolak
 
 1. Tap **Tolak** (Reject)
@@ -57,7 +56,6 @@ Detail meliputi:
 {% hint style="info" %}
 **Best Practice:** Berikan alasan jelas jika menolak, agar karyawan bisa mengajukan ulang dengan perbaikan.
 {% endhint %}
-
 {% endtab %}
 {% endtabs %}
 
@@ -68,4 +66,3 @@ Setelah kamu melakukan approve/reject, pengaju akan langsung mendapat **notifika
 {% endhint %}
 
 ***
-

@@ -1,14 +1,14 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Selamat Datang](README.md)
 
-## Getting Started
+## Memulai
 
-* [Pengenalan HRM Mobile](hrm-mobile/getting-started/overview.md)
-* [Instalasi & Setup Aplikasi](hrm-mobile/getting-started/installation.md)
-* [Login & Registrasi](hrm-mobile/getting-started/login.md)
-* [Onboarding (Pengaturan Awal)](hrm-mobile/getting-started/onboarding.md)
-* [Pengaturan & Preferensi](hrm-mobile/getting-started/settings.md)
+* [Pengenalan HRM Mobile](memulai/overview.md)
+* [Instalasi & Setup Aplikasi](memulai/installation.md)
+* [Login & Registrasi](memulai/login.md)
+* [Onboarding (Pengaturan Awal)](memulai/onboarding.md)
+* [Pengaturan & Preferensi](memulai/settings.md)
 
 ## Fitur Utama
 
@@ -93,5 +93,5 @@
 ## Lainnya
 
 * [OTA Update](hrm-mobile/other/ota-update.md)
-* [Help & Support](hrm-mobile/other/help.md)
-* [FAQ / Troubleshooting](hrm-mobile/other/faq.md)
+* [Bantuan & Dukungan](hrm-mobile/other/help.md)
+* [Pertanyaan Umum](hrm-mobile/other/faq.md)

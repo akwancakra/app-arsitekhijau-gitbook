@@ -1,6 +1,5 @@
 ---
-description: >-
-  Update aplikasi tanpa perlu download dari Play Store / App Store.
+description: Update aplikasi tanpa perlu download dari Play Store / App Store.
 icon: cloud-arrow-up
 ---
 
@@ -14,30 +13,46 @@ Ada dua mode update OTA:
 
 {% tabs %}
 {% tab title="Auto Update" %}
-
-### 1. Auto Update (Otomatis)
+### Auto Update (Otomatis)
 
 Jika **Auto Update** diaktifkan di Pengaturan:
-- Aplikasi akan **mengecek update** secara periodik
-- Saat update tersedia, akan **di-download di background**
-- Saat sudah siap, aplikasi akan **restart** dengan versi baru
-- Proses **transparan** — kamu tidak perlu melakukan apa-apa
 
+* Aplikasi akan **mengecek update** secara periodik
+* Saat update tersedia, akan **di-download di background**
+* Saat sudah siap, aplikasi akan **restart** dengan versi baru
+* Proses **transparan** — kamu tidak perlu melakukan apa-apa
 {% endtab %}
+
 {% tab title="Manual Update" %}
+### Manual Update
 
-### 2. Manual Update
+{% stepper %}
+{% step %}
+Buka **Account** tab
+{% endstep %}
 
-1. Buka **Account** tab
-2. Tap **Tentang Aplikasi** (About)
-3. Jika ada update, akan muncul notifikasi / bottom sheet
+{% step %}
+Tap **Tentang Aplikasi** (About)
+{% endstep %}
+
+{% step %}
+Jika ada update, akan muncul notifikasi / bottom sheet
 
 ![Manual Update OTA](https://placehold.co/600x400/1a1a2e/ffffff?text=ota-manual-update)
+{% endstep %}
 
-4. Tap **Download & Install**
-5. Tunggu proses download selesai
-6. Tap **Restart** untuk menggunakan versi baru
+{% step %}
+Tap **Download** & **Install**
+{% endstep %}
 
+{% step %}
+Tunggu proses download selesai
+{% endstep %}
+
+{% step %}
+Tap **Restart** untuk menggunakan versi baru
+{% endstep %}
+{% endstepper %}
 {% endtab %}
 {% endtabs %}
 
@@ -79,4 +94,3 @@ Sebaiknya biarkan **Auto Update** tetap aktif agar selalu mendapatkan fitur dan 
 3. Aktifkan / nonaktifkan sesuai keinginan
 
 ***
-

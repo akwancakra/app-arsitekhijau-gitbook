@@ -1,7 +1,6 @@
 ---
-description: >-
-  Pengelolaan cuti karyawan — saldo, pengajuan, dan approval.
-icon: beach-umbrella
+description: Pengelolaan cuti karyawan — saldo, pengajuan, dan approval.
+icon: briefcase-blank
 ---
 
 # Overview Cuti
@@ -14,24 +13,21 @@ Tersedia berbagai jenis cuti: Cuti Tahunan, Cuti Sakit, Cuti Menikah, Cuti Kelua
 
 ## Fitur yang Tersedia
 
-{% table data-view="cards" %}
-| Fitur | Deskripsi |
-| --- | --- |
-| **Saldo Cuti** | Melihat sisa jatah cuti per jenis lengkap dengan progress bar |
-| **Mengajukan Cuti** | Membuat pengajuan cuti baru dengan form lengkap |
-| **Approval Cuti** | (Khusus approver) Setujui atau tolak pengajuan cuti bawahan |
-{% /table %}
+| Fitur               | Deskripsi                                                     |
+| ------------------- | ------------------------------------------------------------- |
+| **Saldo Cuti**      | Melihat sisa jatah cuti per jenis lengkap dengan progress bar |
+| **Mengajukan Cuti** | Membuat pengajuan cuti baru dengan form lengkap               |
+| **Approval Cuti**   | (Khusus approver) Setujui atau tolak pengajuan cuti bawahan   |
 
 ## Jenis Cuti
 
-| Jenis Cuti | Keterangan |
-|---|---|
-| **Cuti Tahunan** (Annual) | Cuti reguler tahunan |
-| **Cuti Sakit** (Sick) | Cuti karena sakit (perlu surat dokter) |
-| **Cuti Menikah** (Marriage) | Cuti pernikahan diri sendiri |
-| **Cuti Keluarga Meninggal** (Bereavement) | Anggota keluarga inti meninggal |
-| **Cuti Haji/Umroh** (Hajj) | Ibadah haji atau umroh |
-| **Cuti Tidak Dibayar** (Unpaid) | Cuti di luar tanggungan perusahaan |
+| Jenis Cuti                                | Keterangan                             |
+| ----------------------------------------- | -------------------------------------- |
+| **Cuti Tahunan** (Annual)                 | Cuti reguler tahunan                   |
+| **Cuti Sakit** (Sick)                     | Cuti karena sakit (perlu surat dokter) |
+| **Cuti Menikah** (Marriage)               | Cuti pernikahan diri sendiri           |
+| **Cuti Keluarga Meninggal** (Bereavement) | Anggota keluarga inti meninggal        |
+| **Cuti Haji/Umroh** (Hajj)                | Ibadah haji atau umroh                 |
+| **Cuti Tidak Dibayar** (Unpaid)           | Cuti di luar tanggungan perusahaan     |
 
 ***
-
