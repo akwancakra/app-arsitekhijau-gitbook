@@ -42,4 +42,3 @@ Dokumen bersifat **read-only** — tidak bisa diubah dari sini. Hubungi HR atau 
 
 ***
 
-**Lanjut ke:** [OTA Update](../other/ota-update.md)

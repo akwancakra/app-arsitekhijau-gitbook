@@ -93,4 +93,3 @@ Di bagian **Tentang** (About), kamu bisa melihat:
 
 ---
 
-**Lanjut ke:** [Dashboard Home](../features/dashboard.md)

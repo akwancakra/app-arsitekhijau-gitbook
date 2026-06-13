@@ -108,4 +108,3 @@ Hubungi IT support untuk membuka kunci akun: `it@arsitekhijau.com`
 
 ---
 
-**Lanjut ke:** [Onboarding (Pengaturan Awal)](onboarding.md)

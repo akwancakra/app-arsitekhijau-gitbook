@@ -47,4 +47,3 @@ Tap pada dokumen untuk membaca isi lengkap:
 
 ***
 
-**Lanjut ke:** [Overview Pengumuman](../announcements/overview.md)

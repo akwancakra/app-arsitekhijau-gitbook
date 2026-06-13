@@ -84,4 +84,3 @@ Detail meliputi:
 
 ***
 
-**Lanjut ke:** [Overview Slip Gaji](../payslip/overview.md)

@@ -55,4 +55,3 @@ Lembur harus **disetujui oleh atasan** terlebih dahulu sebelum dikerjakan. Janga
 
 ***
 
-**Lanjut ke:** [Approval Lembur](approval.md)

@@ -1,75 +1,61 @@
 ---
 description: >-
-  Panduan mengajukan cuti baru melalui aplikasi.
+  Mengajukan cuti baru melalui aplikasi — panduan langkah demi langkah.
 icon: file-circle-plus
 ---
 
-# Mengajukan Cuti
+# ✈️ Mengajukan Cuti
 
-{% tabs %}
-{% tab title="Form Pengajuan" %}
+{% stepper %}
+{% step %}
+### Buka Halaman Cuti
+Dari **Dashboard Home**, tap ikon **🏖️ Cuti**, lalu tap tombol **Ajukan Cuti** di pojok kanan atas.
 
-### Cara Mengajukan Cuti Baru
+![Tombol Ajukan Cuti](https://placehold.co/600x400/1a1a2e/ffffff?text=tombol-ajukan)
+{% endstep %}
 
-![Tombol Ajukan Cuti di pojok kanan atas halaman](https://placehold.co/600x400/1a1a2e/ffffff?text=tombol-ajukan)
+{% step %}
+### Isi Form Pengajuan
+Lengkapi form dengan data berikut:
 
-1. Buka halaman **Cuti** (dari dashboard tap icon 🏖️)
-2. Tap tombol **Ajukan Cuti** (biasanya di pojok kanan atas)
-3. Isi **Form Pengajuan Cuti**:
-
-![Form pengajuan cuti dengan field jenis, tanggal, alasan](https://placehold.co/600x1200/1a1a2e/ffffff?text=form-cuti)
-
-### Detail Form
+![Form pengajuan cuti lengkap](https://placehold.co/600x1200/1a1a2e/ffffff?text=form-cuti)
 
 | Field | Wajib? | Keterangan |
 |---|---|---|
-| **Jenis Cuti** | ✅ Ya | Pilih dari daftar jenis cuti |
-| **Tanggal Mulai** | ✅ Ya | Pilih tanggal mulai cuti |
-| **Tanggal Selesai** | ✅ Ya | Pilih tanggal selesai cuti |
-| **Durasi** | ✅ Ya | Terisi otomatis (jumlah hari) |
-| **Alasan** | ✅ Ya | Alasan pengajuan cuti |
-| **Catatan** | ❌ Tidak | Informasi tambahan (opsional) |
-| **Lampiran** | ❌ Tidak | Upload dokumen pendukung (foto/Surat Dokter, dll) |
-
-{% endtab %}
-{% tab title="Tips Pengisian" %}
-
-### Tips Pengisian Form
-
-- **Tanggal**: Gunakan date picker untuk memilih tanggal. Tanggal selesai harus setelah tanggal mulai
-- **Durasi**: Akan terisi otomatis saat tanggal dipilih
-- **Alasan**: Tulis dengan jelas dan profesional
-- **Lampiran**: Untuk cuti sakit, lampirkan surat dokter. Format file: JPG, PNG, atau PDF
+| **Jenis Cuti** | ✅ Ya | Pilih: Tahunan, Sakit, Menikah, Keluarga Meninggal, Haji, Tidak Dibayar |
+| **Tanggal Mulai** | ✅ Ya | Gunakan date picker |
+| **Tanggal Selesai** | ✅ Ya | Harus setelah tanggal mulai — durasi terisi otomatis |
+| **Alasan** | ✅ Ya | Tulis alasan dengan jelas dan profesional |
+| **Lampiran** | ❌ Tidak | Upload surat dokter (sakit), undangan (menikah), dll — JPG/PNG/PDF |
 
 {% hint style="warning" %}
-Ajukan cuti **minimal 3 hari sebelum** tanggal cuti untuk memberi waktu proses approval oleh atasan.
+Ajukan cuti **minimal 3 hari sebelum** tanggal mulai agar approver punya waktu memproses.
 {% endhint %}
+{% endstep %}
 
-{% endtab %}
-{% tab title="Setelah Mengajukan" %}
+{% step %}
+### Kirim & Tunggu Approval
+Tap **Kirim** — pengajuan masuk ke status **Pending**. Atasan akan menerima notifikasi dan menyetujui/menolak.
 
-### Setelah Mengajukan
+![Konfirmasi pengajuan terkirim](https://placehold.co/600x400/1a1a2e/ffffff?text=konfirmasi-pengajuan)
+{% endstep %}
+{% endstepper %}
 
-![Konfirmasi pengajuan cuti berhasil dikirim](https://placehold.co/600x400/1a1a2e/ffffff?text=konfirmasi-pengajuan)
+---
+
+## ⏳ Setelah Mengajukan
+
+```
+Kamu Ajukan → Pending → Notifikasi ke Approver → Approved ✅ / Rejected ❌
+```
 
 {% hint style="success" %}
-Pengajuan cuti berhasil dikirim! Kamu akan mendapat notifikasi setelah disetujui atau ditolak oleh atasan.
+Kamu akan mendapat **notifikasi push** setelah cuti disetujui atau ditolak. Status bisa dicek kapan saja di halaman Cuti (tab: All / Pending / Approved / Rejected).
 {% endhint %}
 
-1. Pengajuan masuk ke daftar **Pending**
-2. Approver (atasan langsung) akan menerima notifikasi
-3. Kamu akan mendapat notifikasi saat cuti **disetujui** atau **ditolak**
-4. Status bisa dicek di halaman Cuti (tab: All / Pending / Approved / Rejected)
-
-### Timeline
-
-```
-Ajukan Cuti → Pending → Approved ✅ / Rejected ❌
-```
-
-{% endtab %}
-{% endtabs %}
-
-***
-
-**Lanjut ke:** [Approval Cuti](approval.md)
+{% details title="Tips & Pertimbangan" %}
+- **Cuti sakit**: selalu lampirkan surat dokter
+- **Cuti menikah**: lampirkan undangan atau surat nikah
+- **Saldo cuti**: jika masih pending, saldo sudah otomatis dikurangi dari sisa
+- **Ditolak?** Baca alasan approver, ajukan ulang jika memungkinkan
+{% enddetails %}

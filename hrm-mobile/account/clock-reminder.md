@@ -54,4 +54,3 @@ Dengan menonaktifkan reminder, kamu tidak akan mendapat pengingat clock in/out. 
 
 ***
 
-**Lanjut ke:** [My Files (Dokumen Pribadi)](my-files.md)

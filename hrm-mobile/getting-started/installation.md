@@ -19,77 +19,101 @@ icon: mobile-notch
 ## Instalasi Aplikasi
 
 {% tabs %}
-{% tab title="Android" %}
+{% tab title="🤖 Android" %}
 
-![Google Play Store - HRM Arsitek Hijau](https://placehold.co/600x1200/1a1a2e/ffffff?text=play-store)
+{% stepper %}
+{% step %}
+### Buka Play Store
+Buka **Google Play Store** di perangkat Android kamu.
+{% endstep %}
 
-1. Buka **Google Play Store** di perangkat kamu
-2. Cari **"HRM Arsitek Hijau"**
-3. Tap **Install**
-4. Tunggu hingga proses instalasi selesai
-5. Tap **Open** untuk membuka aplikasi
+{% step %}
+### Cari Aplikasi
+Cari **"HRM Arsitek Hijau"** di kolom pencarian.
+
+![Play Store](https://placehold.co/600x1200/1a1a2e/ffffff?text=play-store)
+{% endstep %}
+
+{% step %}
+### Install
+Tap **Install**, tunggu proses selesai.
+{% endstep %}
+
+{% step %}
+### Buka Aplikasi
+Tap **Open** untuk menjalankan aplikasi.
+{% endstep %}
+{% endstepper %}
 
 {% endtab %}
+{% tab title="🍎 iOS" %}
 
-{% tab title="iOS" %}
+{% stepper %}
+{% step %}
+### Buka App Store
+Buka **App Store** di iPhone kamu.
+{% endstep %}
 
-![App Store - HRM Arsitek Hijau](https://placehold.co/600x1200/1a1a2e/ffffff?text=app-store)
+{% step %}
+### Cari Aplikasi
+Cari **"HRM Arsitek Hijau"** di kolom pencarian.
 
-1. Buka **App Store** di iPhone kamu
-2. Cari **"HRM Arsitek Hijau"**
-3. Tap **Dapatkan** (Get)
-4. Konfirmasi dengan Face ID / Touch ID / password Apple ID
-5. Tap **Buka** setelah instalasi selesai
+![App Store](https://placehold.co/600x1200/1a1a2e/ffffff?text=app-store)
+{% endstep %}
+
+{% step %}
+### Download
+Tap **Dapatkan** (Get), konfirmasi dengan Face ID/Touch ID/password Apple ID.
+{% endstep %}
+
+{% step %}
+### Buka Aplikasi
+Tap **Buka** setelah instalasi selesai.
+{% endstep %}
+{% endstepper %}
 
 {% endtab %}
 {% endtabs %}
 
 ---
 
-{% details title="Distribusi Internal (MDM / TestFlight / APK Langsung)" %}
-Jika perusahaan menggunakan distribusi internal:
-
-- Kamu akan menerima **email undangan** berisi link download
-- Atau IT akan mengirimkan **link APK (Android)** / **link TestFlight (iOS)**
-- Ikuti petunjuk di email untuk instalasi
-
-{% hint style="warning" %}
-Untuk Android APK langsung, izinkan **Instalasi dari Sumber Tidak Dikenal** di Pengaturan HP.
-{% endhint %}
-{% enddetails %}
-
----
-
 ## 🔐 Izin Aplikasi yang Diperlukan
 
 {% hint style="info" %}
-**Semua izin** bisa diatur ulang kapan saja di **Pengaturan HP → Aplikasi → HRM Arsitek Hijau → Izin**.
+Semua izin bisa diatur ulang di **Pengaturan HP → Aplikasi → HRM Arsitek Hijau → Izin**.
 {% endhint %}
 
 | Izin | Kegunaan | Waktu Diminta |
 |---|---|---|
-| **📍 Lokasi (GPS)** | Validasi lokasi saat Clock In/Out | Saat onboarding / pertama kali absen |
-| **📸 Kamera** | Foto selfie saat Clock In/Out | Saat onboarding / pertama kali absen |
-| **🔔 Notifikasi** | Pengingat clock, info pengajuan, pengumuman | Saat onboarding |
-| **📁 Penyimpanan** | Download slip gaji PDF | Saat download payslip |
+| 📍 **Lokasi (GPS)** | Validasi lokasi saat Clock In/Out | Saat onboarding / pertama kali absen |
+| 📸 **Kamera** | Foto selfie saat Clock In/Out | Saat onboarding / pertama kali absen |
+| 🔔 **Notifikasi** | Pengingat clock, info pengajuan, pengumuman | Saat onboarding |
+| 📁 **Penyimpanan** | Download slip gaji PDF | Saat download payslip |
 
 ---
 
-{% details title="❓ Troubleshooting Instalasi" %}
+<details>
+<summary><b>📦 Distribusi Internal (MDM / TestFlight / APK Langsung)</b></summary>
+
+Jika perusahaan menggunakan distribusi internal:
+- Kamu akan menerima **email undangan** berisi link download
+- Atau IT mengirimkan **link APK (Android)** / **link TestFlight (iOS)**
+
+{% hint style="warning" %}
+Untuk Android APK langsung, izinkan **Instalasi dari Sumber Tidak Dikenal** di Pengaturan HP.
+{% endhint %}
+</details>
+
+<details>
+<summary><b>❓ Troubleshooting Instalasi</b></summary>
 
 **Aplikasi tidak muncul di Play Store / App Store?**
-- Pastikan kamu menggunakan akun dengan region Indonesia
-- Atau hubungi IT untuk link distribusi internal
+→ Pastikan menggunakan akun region Indonesia, atau hubungi IT.
 
-**Gagal install (storage penuh)?**
-- Bersihkan storage HP, minimal butuh ~100MB ruang kosong
+**Gagal install — storage penuh?**
+→ Bersihkan storage HP, minimal perlu ~100MB ruang kosong.
 
 **Aplikasi tidak bisa dibuka setelah install?**
-- Restart HP, coba buka lagi
-- Pastikan OS memenuhi persyaratan minimal
+→ Restart HP, pastikan OS memenuhi persyaratan minimal.
 
-{% enddetails %}
-
----
-
-**Lanjut ke:** [Login & Registrasi](login.md)
+</details>

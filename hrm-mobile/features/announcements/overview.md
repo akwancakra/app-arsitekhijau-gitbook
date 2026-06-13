@@ -44,4 +44,3 @@ Tap untuk membaca isi lengkap:
 
 ***
 
-**Lanjut ke:** [Overview Aset](../assets/overview.md)

@@ -69,4 +69,3 @@ Setelah kamu melakukan approve/reject, pengaju akan langsung mendapat **notifika
 
 ***
 
-**Lanjut ke:** [Overview Lembur](../lembur/overview.md)

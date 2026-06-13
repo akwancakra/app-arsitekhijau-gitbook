@@ -70,4 +70,3 @@ Aplikasi mendukung **Bahasa Indonesia** (default) dan **English**. Pengaturan ba
 
 ---
 
-**Lanjut ke:** [Instalasi & Setup Aplikasi](installation.md)

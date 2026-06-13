@@ -75,4 +75,3 @@ Detail meliputi:
 
 ***
 
-**Lanjut ke:** [Overview Kalendar](../calendar/overview.md)

@@ -53,4 +53,3 @@ Modul **Tugas** (Tasks) menampilkan daftar tugas yang perlu kamu kerjakan. Tugas
 
 ***
 
-**Lanjut ke:** [Mengelola Tugas](manage.md)

@@ -106,4 +106,3 @@ Biometric hanya sebagai alternatif. PIN tetap diperlukan sebagai cadangan.
 
 ***
 
-**Lanjut ke:** [Clock Reminder](clock-reminder.md)

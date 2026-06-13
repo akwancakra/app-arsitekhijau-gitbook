@@ -76,4 +76,3 @@ Contoh: "Update aplikasi versi 2.0 tersedia"
 
 ***
 
-**Lanjut ke:** [Edit Profile](../../account/edit-profile.md)

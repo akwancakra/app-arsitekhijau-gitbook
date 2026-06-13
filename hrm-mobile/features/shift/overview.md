@@ -27,4 +27,3 @@ Modul **Perubahan Shift** (Shift Change Request) memungkinkan kamu mengajukan pe
 
 ***
 
-**Lanjut ke:** [Request & Approval Shift](request.md)

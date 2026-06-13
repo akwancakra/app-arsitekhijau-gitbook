@@ -35,4 +35,3 @@ Tersedia berbagai jenis cuti: Cuti Tahunan, Cuti Sakit, Cuti Menikah, Cuti Kelua
 
 ***
 
-**Lanjut ke:** [Melihat Saldo Cuti](balance.md)

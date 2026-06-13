@@ -60,4 +60,3 @@ Pilih "Semua" untuk melihat seluruh riwayat slip gaji dari tahun ke tahun.
 
 ***
 
-**Lanjut ke:** [Overview Peringatan](../warnings/overview.md)

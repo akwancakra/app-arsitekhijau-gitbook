@@ -4,99 +4,113 @@ description: >-
 icon: clock
 ---
 
-# Clock In & Clock Out
+# 🕐 Clock In & Clock Out
 
 {% tabs %}
-{% tab title="Clock In" %}
+{% tab title="🟢 Clock In" %}
 
 Clock In dilakukan saat kamu **tiba di tempat kerja** di awal shift.
 
-### Cara Clock In
+{% stepper %}
+{% step %}
+### Tap Tombol Clock In
+Buka aplikasi HRM Mobile, di **Dashboard Home** tap tombol **Clock In** (ikon hijau besar).
 
-![Tombol Clock In berwarna hijau besar di halaman Dashboard](https://placehold.co/600x400/1a1a2e/ffffff?text=tombol-clock-in)
+![Tombol Clock In di dashboard](https://placehold.co/600x400/1a1a2e/ffffff?text=tombol-clock-in)
+{% endstep %}
 
-1. Buka aplikasi HRM Mobile
-2. Di **Dashboard Home**, tap tombol **Clock In** (icon hijau besar)
-3. Akan muncul **Clock Action Modal**:
+{% step %}
+### Tunggu Deteksi Lokasi
+Sistem akan **mendeteksi lokasi GPS** kamu secara otomatis. Pastikan GPS HP aktif.
 
-![Modal Clock In dengan form deteksi lokasi dan kamera selfie](https://placehold.co/600x400/1a1a2e/ffffff?text=modal-clock-in)
+![Modal Clock In — deteksi lokasi dan kamera](https://placehold.co/600x400/1a1a2e/ffffff?text=modal-clock-in)
+{% endstep %}
 
-4. Sistem akan **mendeteksi lokasi GPS** kamu secara otomatis
-5. Tap icon **Kamera** untuk mengambil **foto selfie**
-6. (Opsional) Tambahkan **catatan** jika perlu
-7. Tap **Clock In** untuk mengonfirmasi
+{% step %}
+### Ambil Foto Selfie
+Tap ikon **Kamera** untuk mengambil foto selfie sebagai bukti kehadiran.
+{% endstep %}
 
-### Setelah Clock In Berhasil
+{% step %}
+### Konfirmasi Clock In
+(Opsional) Tambahkan catatan jika perlu, lalu tap **Clock In** untuk mengonfirmasi.
+{% endstep %}
+{% endstepper %}
 
 {% hint style="success" %}
-Clock In berhasil! Kamu sudah tercatat masuk kerja. Tombol di dashboard akan berubah menjadi **Clock Out** (merah).
+✅ Clock In berhasil! Tombol dashboard berubah jadi **Clock Out** (merah), status jadi **"Active"**, durasi kerja mulai terhitung.
 {% endhint %}
 
-- Tombol di dashboard berubah menjadi **Clock Out** (merah)
-- Waktu clock in tercatat
-- Status absensi hari ini berubah menjadi **"Active"**
-- Mulai terhitung durasi jam kerja
-
 {% endtab %}
-{% tab title="Clock Out" %}
+{% tab title="🔴 Clock Out" %}
 
 Clock Out dilakukan saat kamu **pulang** setelah shift selesai.
 
-### Cara Clock Out
+{% stepper %}
+{% step %}
+### Tap Tombol Clock Out
+Di Dashboard Home, tap tombol **Clock Out** (ikon merah besar).
 
-![Tombol Clock Out berwarna merah besar di halaman Dashboard](https://placehold.co/600x400/1a1a2e/ffffff?text=tombol-clock-out)
+![Tombol Clock Out di dashboard](https://placehold.co/600x400/1a1a2e/ffffff?text=tombol-clock-out)
+{% endstep %}
 
-1. Buka aplikasi HRM Mobile
-2. Di Dashboard Home, tap tombol **Clock Out** (icon merah besar)
-3. Sistem mendeteksi **lokasi GPS**
-4. Ambil **foto selfie**
-5. (Opsional) Tambahkan catatan
-6. Tap **Clock Out** untuk mengonfirmasi
+{% step %}
+### Deteksi Lokasi & Selfie
+Sistem mendeteksi lokasi GPS, lalu ambil **foto selfie**.
+{% endstep %}
 
-### Setelah Clock Out Berhasil
+{% step %}
+### Konfirmasi Clock Out
+(Opsional) Tambahkan catatan, lalu tap **Clock Out** untuk mengonfirmasi.
+{% endstep %}
+{% endstepper %}
 
 {% hint style="success" %}
-Clock Out berhasil! Hari kerja kamu sudah selesai tercatat. Durasi kerja akan otomatis terhitung.
+✅ Clock Out berhasil! Status berubah jadi **"Completed"**, durasi kerja tercatat.
 {% endhint %}
-
-- Waktu clock out tercatat
-- Durasi kerja hari ini terhitung
-- Status berubah menjadi **"Completed"**
 
 {% endtab %}
 {% endtabs %}
 
-## Tips & Troubleshooting
+---
 
-{% details title="GPS Error" %}
-**Masalah:** GPS tidak mendeteksi lokasi.
-**Solusi:** Pastikan GPS HP aktif, coba di luar ruangan, restart aplikasi.
-{% enddetails %}
+## 🔧 Tips & Troubleshooting
 
-{% details title="Foto Gagal" %}
-**Masalah:** Kamera tidak bisa mengambil foto.
-**Solusi:** Periksa izin kamera di pengaturan HP, restart aplikasi.
-{% enddetails %}
+<details>
+<summary><b>GPS Error</b> — GPS tidak mendeteksi lokasi</summary>
 
-{% details title="Tombol Clock Tidak Muncul" %}
-**Masalah:** Tombol clock in/out tidak terlihat di dashboard.
-**Solusi:** Pastikan sudah login dan koneksi internet stabil.
-{% enddetails %}
+1. Pastikan **GPS/Lokasi** HP aktif
+2. Coba ke **luar ruangan** agar sinyal kuat
+3. **Restart** aplikasi
+</details>
 
-{% details title="Lokasi Tidak Sesuai" %}
-**Masalah:** Lokasi terdeteksi di luar area kerja.
-**Solusi:** Pastikan berada di area kerja yang terdaftar.
-{% enddetails %}
+<details>
+<summary><b>Foto Gagal</b> — Kamera tidak bisa mengambil foto</summary>
 
-{% details title="Lupa Clock Out" %}
-**Masalah:** Sudah clock in tapi lupa clock out.
-**Solusi:** Gunakan fitur **Koreksi Absensi** — pilih **Past Day Correction** untuk hari sebelumnya.
-{% enddetails %}
+- Periksa **izin kamera** di Pengaturan HP → Aplikasi → HRM → Kamera → **Izinkan**
+- Restart aplikasi
+</details>
 
-{% hint style="info" %}
-Clock In & Clock Out hanya bisa dilakukan **1 kali per hari**. Jika ada kesalahan, gunakan fitur **Koreksi Absensi**.
+<details>
+<summary><b>Tombol Clock Tidak Muncul</b> — Tombol tidak terlihat di dashboard</summary>
+
+- Pastikan **sudah login** dan **koneksi internet** stabil
+- Tarik layar ke bawah untuk **refresh** dashboard
+</details>
+
+<details>
+<summary><b>Lokasi Tidak Sesuai</b> — Terdeteksi di luar area kerja</summary>
+
+- Pastikan kamu berada di **area kantor yang terdaftar**
+- Jika lokasi benar tapi masih error, hubungi IT
+</details>
+
+<details>
+<summary><b>Lupa Clock Out</b> — Sudah clock in tapi lupa clock out</summary>
+
+Gunakan fitur **Koreksi Absensi → Past Day Correction**. Pilih tipe **Lupa Clock Out** dan isi waktu pulang yang benar.
+</details>
+
+{% hint style="warning" %}
+Clock In & Clock Out hanya bisa **1 kali per hari**. Jika ada kesalahan, gunakan **Koreksi Absensi** untuk memperbaikinya.
 {% endhint %}
-
-***
-
-**Lanjut ke:** [Riwayat Absensi](history.md)

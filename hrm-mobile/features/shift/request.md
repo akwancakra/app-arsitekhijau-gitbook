@@ -59,4 +59,3 @@ Sebagai approver, pastikan kamu memeriksa alasan perubahan shift dan ketersediaa
 
 ***
 
-**Lanjut ke:** [Overview Tugas](../tugas/overview.md)

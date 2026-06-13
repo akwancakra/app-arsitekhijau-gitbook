@@ -54,4 +54,3 @@ Saat melapor, sertakan informasi berikut agar penanganan lebih cepat:
 
 ***
 
-**Lanjut ke:** [FAQ / Troubleshooting](faq.md)

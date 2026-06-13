@@ -78,4 +78,3 @@ Status pengajuan koreksi bisa dilihat di tab **Requests** (icon clipboard di bot
 
 ***
 
-**Lanjut ke:** [Overview Cuti](../cuti/overview.md)

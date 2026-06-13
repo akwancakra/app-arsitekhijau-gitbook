@@ -30,4 +30,3 @@ Terdapat dua tipe lembur: **Lembur Hari Kerja** (Workday Overtime) untuk lembur 
 
 ***
 
-**Lanjut ke:** [Mengajukan Lembur](apply.md)

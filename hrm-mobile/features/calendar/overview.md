@@ -62,4 +62,3 @@ Menampilkan:
 
 ***
 
-**Lanjut ke:** [Overview Organisasi](../hierarchy/overview.md)

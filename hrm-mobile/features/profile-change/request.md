@@ -78,4 +78,3 @@ icon: user-pen
 
 ***
 
-**Lanjut ke:** [Overview Notifikasi](../notifications/overview.md)

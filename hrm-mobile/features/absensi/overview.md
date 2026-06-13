@@ -55,4 +55,3 @@ Untuk melakukan absensi, pastikan:
 
 ***
 
-**Lanjut ke:** [Clock In & Clock Out](clock-in-out.md)

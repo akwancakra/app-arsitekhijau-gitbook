@@ -54,4 +54,3 @@ Pengaju akan mendapat notifikasi hasil approval.
 
 ***
 
-**Lanjut ke:** [Overview Perubahan Shift](../shift/overview.md)

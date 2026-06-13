@@ -71,4 +71,3 @@ Fitur reset onboarding tidak tersedia dari aplikasi. Hubungi IT support jika per
 
 ---
 
-**Lanjut ke:** [Pengaturan & Preferensi](settings.md)

@@ -39,4 +39,3 @@ Setiap slip gaji menampilkan:
 
 ***
 
-**Lanjut ke:** [Melihat & Download Slip Gaji](download.md)

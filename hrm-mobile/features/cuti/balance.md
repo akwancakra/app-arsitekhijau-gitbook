@@ -50,4 +50,3 @@ Saldo cuti yang muncul tergantung kebijakan perusahaan dan status karyawan:
 
 ***
 
-**Lanjut ke:** [Mengajukan Cuti](apply.md)

@@ -108,4 +108,3 @@ Tarik layar ke bawah untuk **refresh** semua data dashboard (absensi, tugas, pen
 
 ---
 
-**Lanjut ke:** [Overview Absensi](absensi/overview.md)

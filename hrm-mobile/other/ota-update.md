@@ -80,4 +80,3 @@ Sebaiknya biarkan **Auto Update** tetap aktif agar selalu mendapatkan fitur dan 
 
 ***
 
-**Lanjut ke:** [Help & Support](help.md)

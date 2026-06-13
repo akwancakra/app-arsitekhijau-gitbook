@@ -60,4 +60,3 @@ Tap masing-masing menu untuk melihat detail (data bersifat **read-only** kecuali
 
 ***
 
-**Lanjut ke:** [Ubah Password](change-password.md)

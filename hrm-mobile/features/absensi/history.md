@@ -57,4 +57,3 @@ Detail meliputi:
 
 ***
 
-**Lanjut ke:** [Koreksi Absensi](correction.md)
