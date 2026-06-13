@@ -9,7 +9,7 @@ icon: mobile-screen-button
 
 **HRM Mobile Arsitek Hijau** adalah aplikasi mobile HR terpadu yang dirancang khusus untuk memudahkan seluruh karyawan dalam mengelola aktivitas HR sehari-hari langsung dari smartphone.
 
-![Logo dan tampilan utama aplikasi HRM Mobile](https://placehold.co/600x1200/1a1a2e/ffffff?text=logo-app)
+![](https://placehold.co/600x1200/1a1a2e/ffffff?text=logo-app)
 
 {% hint style="success" %}
 Aplikasi ini mendukung **Bahasa Indonesia** dan **English**. Semua fitur bisa diakses dalam dua bahasa!
