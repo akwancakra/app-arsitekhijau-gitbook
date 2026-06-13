@@ -4,7 +4,7 @@ description: >-
 icon: mobile-notch
 ---
 
-# 📲 Instalasi & Setup Aplikasi
+# Instalasi & Setup Aplikasi
 
 ## Persyaratan Sistem
 
@@ -19,7 +19,7 @@ icon: mobile-notch
 ## Instalasi Aplikasi
 
 {% tabs %}
-{% tab title="🤖 Android" %}
+{% tab title="Android" %}
 
 {% stepper %}
 {% step %}
@@ -46,7 +46,8 @@ Tap **Open** untuk menjalankan aplikasi.
 {% endstepper %}
 
 {% endtab %}
-{% tab title="🍎 iOS" %}
+
+{% tab title="iOS" %}
 
 {% stepper %}
 {% step %}
@@ -77,23 +78,23 @@ Tap **Buka** setelah instalasi selesai.
 
 ---
 
-## 🔐 Izin Aplikasi yang Diperlukan
+## Izin Aplikasi yang Diperlukan
 
 {% hint style="info" %}
-Semua izin bisa diatur ulang di **Pengaturan HP → Aplikasi → HRM Arsitek Hijau → Izin**.
+Semua izin bisa diatur ulang di **Pengaturan HP > Aplikasi > HRM Arsitek Hijau > Izin**.
 {% endhint %}
 
 | Izin | Kegunaan | Waktu Diminta |
 |---|---|---|
-| 📍 **Lokasi (GPS)** | Validasi lokasi saat Clock In/Out | Saat onboarding / pertama kali absen |
-| 📸 **Kamera** | Foto selfie saat Clock In/Out | Saat onboarding / pertama kali absen |
-| 🔔 **Notifikasi** | Pengingat clock, info pengajuan, pengumuman | Saat onboarding |
-| 📁 **Penyimpanan** | Download slip gaji PDF | Saat download payslip |
+| **Lokasi (GPS)** | Validasi lokasi saat Clock In/Out | Saat onboarding / pertama kali absen |
+| **Kamera** | Foto selfie saat Clock In/Out | Saat onboarding / pertama kali absen |
+| **Notifikasi** | Pengingat clock, info pengajuan, pengumuman | Saat onboarding |
+| **Penyimpanan** | Download slip gaji PDF | Saat download payslip |
 
 ---
 
 <details>
-<summary><b>📦 Distribusi Internal (MDM / TestFlight / APK Langsung)</b></summary>
+<summary><b>Distribusi Internal (MDM / TestFlight / APK Langsung)</b></summary>
 
 Jika perusahaan menggunakan distribusi internal:
 - Kamu akan menerima **email undangan** berisi link download
@@ -105,15 +106,15 @@ Untuk Android APK langsung, izinkan **Instalasi dari Sumber Tidak Dikenal** di P
 </details>
 
 <details>
-<summary><b>❓ Troubleshooting Instalasi</b></summary>
+<summary><b>Troubleshooting Instalasi</b></summary>
 
 **Aplikasi tidak muncul di Play Store / App Store?**
-→ Pastikan menggunakan akun region Indonesia, atau hubungi IT.
+Pastikan menggunakan akun region Indonesia, atau hubungi IT.
 
 **Gagal install — storage penuh?**
-→ Bersihkan storage HP, minimal perlu ~100MB ruang kosong.
+Bersihkan storage HP, minimal perlu ~100MB ruang kosong.
 
 **Aplikasi tidak bisa dibuka setelah install?**
-→ Restart HP, pastikan OS memenuhi persyaratan minimal.
+Restart HP, pastikan OS memenuhi persyaratan minimal.
 
 </details>

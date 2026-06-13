@@ -4,7 +4,7 @@ description: >-
 icon: right-to-bracket
 ---
 
-# 🔑 Login & Registrasi
+# Login & Registrasi
 
 ## Login
 

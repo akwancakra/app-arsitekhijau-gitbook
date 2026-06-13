@@ -4,7 +4,7 @@ description: >-
 icon: wand-magic-sparkles
 ---
 
-# 🪄 Onboarding (Pengaturan Awal)
+# Onboarding (Pengaturan Awal)
 
 Setelah **pertama kali login**, kamu akan melalui proses onboarding 3 langkah. Ini hanya muncul sekali — setelah selesai, langsung masuk dashboard.
 
@@ -25,10 +25,10 @@ Pengenalan fitur-fitur utama aplikasi:
 
 | Fitur | Deskripsi |
 |---|---|
-| 📋 **Absensi** | Clock In/Out dengan GPS |
-| 📝 **Pengajuan** | Cuti, lembur, dan lainnya |
-| 💰 **Slip Gaji** | Lihat dan download slip gaji |
-| 📂 **Informasi** | SOP, pengumuman, direktori |
+| **Absensi** | Clock In/Out dengan GPS |
+| **Pengajuan** | Cuti, lembur, dan lainnya |
+| **Slip Gaji** | Lihat dan download slip gaji |
+| **Informasi** | SOP, pengumuman, direktori |
 
 Geser ke kiri (swipe) atau tap **Lanjut** untuk melihat fitur berikutnya.
 
@@ -42,9 +42,9 @@ Aplikasi akan meminta izin penting. Berikut rekomendasinya:
 
 | Izin | Fungsi | Disarankan |
 |---|---|---|
-| 📍 **Lokasi** | Validasi lokasi absen | ✅ **Izinkan** |
-| 📸 **Kamera** | Foto selfie absen | ✅ **Izinkan** |
-| 🔔 **Notifikasi** | Pengingat & info | ✅ **Izinkan** |
+| **Lokasi** | Validasi lokasi absen | Izinkan |
+| **Kamera** | Foto selfie absen | Izinkan |
+| **Notifikasi** | Pengingat & info | Izinkan |
 
 {% hint style="warning" %}
 Jika kamu memilih **Nanti** (skip), beberapa fitur mungkin tidak berfungsi optimal. Izin bisa diberikan nanti di **Pengaturan HP**.
@@ -56,7 +56,7 @@ Jika kamu memilih **Nanti** (skip), beberapa fitur mungkin tidak berfungsi optim
 ---
 
 {% hint style="success" %}
-Setelah 3 langkah selesai, kamu langsung masuk ke **Dashboard Home** dan siap menggunakan aplikasi! 🎉
+Setelah 3 langkah selesai, kamu langsung masuk ke **Dashboard Home** dan siap menggunakan aplikasi!
 {% endhint %}
 
 ---
@@ -68,6 +68,3 @@ Jika kamu logout dan login lagi, onboarding **tidak akan muncul lagi** — hanya
 {% details title="Ingin melihat onboarding lagi?" %}
 Fitur reset onboarding tidak tersedia dari aplikasi. Hubungi IT support jika perlu mereset status onboarding.
 {% enddetails %}
-
----
-

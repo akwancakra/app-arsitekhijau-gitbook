@@ -14,7 +14,7 @@ Fitur keamanan tambahan untuk melindungi akses ke aplikasi HRM Mobile kamu.
 
 ---
 
-## 🔐 PIN Lock
+## PIN Lock
 
 PIN adalah kode **6-digit** yang diminta setiap kali membuka aplikasi (setelah login).
 

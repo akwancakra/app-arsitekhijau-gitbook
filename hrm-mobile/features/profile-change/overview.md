@@ -14,31 +14,23 @@ Modul **Profile Change Request** memungkinkan kamu mengajukan perubahan data pro
 
 ## Data yang Bisa Diubah
 
-{% tabs %}
-{% tab title="👤 Personal" %}
-**Personal Information** — Nama, tempat/tanggal lahir, jenis kelamin, status pernikahan, agama.
-{% endtab %}
-
-{% tab title="👨‍👩‍👧 Family" %}
-**Family Detail** — Data pasangan, data anak, orang tua.
-{% endtab %}
-
-{% tab title="📞 Emergency" %}
-**Emergency Contact** — Kontak darurat (nama, hubungan, telepon).
-{% endtab %}
-
-{% tab title="🎓 Education" %}
-**Education & Experience** — Riwayat pendidikan, pengalaman kerja.
-{% endtab %}
-
-{% tab title="📋 Additional" %}
-**Additional Info** — Informasi tambahan lainnya.
-{% endtab %}
-
-{% tab title="🏦 Bank" %}
-**Bank Information** — Data rekening bank untuk payroll.
-{% endtab %}
-{% endtabs %}
+<table data-view="cards">
+  <thead><tr><th></th><th></th></tr></thead>
+  <tbody>
+    <tr>
+      <td><strong>Personal Information</strong><br>Nama, tempat/tanggal lahir, jenis kelamin, status pernikahan, agama</td>
+      <td><strong>Family Detail</strong><br>Data pasangan, data anak, orang tua</td>
+    </tr>
+    <tr>
+      <td><strong>Emergency Contact</strong><br>Kontak darurat — nama, hubungan, telepon</td>
+      <td><strong>Education & Experience</strong><br>Riwayat pendidikan & pengalaman kerja</td>
+    </tr>
+    <tr>
+      <td><strong>Additional Info</strong><br>Informasi tambahan lainnya</td>
+      <td><strong>Bank Information</strong><br>Data rekening bank untuk payroll</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Fitur yang Tersedia
 

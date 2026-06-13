@@ -6,7 +6,7 @@ icon: circle-question
 
 # ❓ FAQ / Troubleshooting
 
-## 🔑 Login & Akun
+## Login & Akun
 
 <details>
 <summary><b>Lupa password, bagaimana?</b></summary>
@@ -35,7 +35,7 @@ Hubungi **IT Support**: `it@arsitekhijau.com`. Sertakan nama lengkap, NIP, dan w
 
 ---
 
-## 📋 Absensi
+## Absensi
 
 <details>
 <summary><b>Lupa clock in, bagaimana?</b></summary>
@@ -71,7 +71,7 @@ Pastikan berada di **area kantor yang terdaftar** di sistem. Jika lokasi benar t
 
 ---
 
-## 🏖️ Cuti & Lembur
+## Cuti & Lembur
 
 <details>
 <summary><b>Saldo cuti tidak muncul / tidak sesuai</b></summary>
@@ -93,7 +93,7 @@ Hubungi **atasan langsung** kamu. Approver mungkin belum melihat notifikasi atau
 
 ---
 
-## 🔔 Notifikasi
+## Notifikasi
 
 <details>
 <summary><b>Tidak mendapat notifikasi dari aplikasi</b></summary>
@@ -117,7 +117,7 @@ Cek tiga hal ini:
 
 ---
 
-## 🛠️ Teknis
+## Teknis
 
 <details>
 <summary><b>Aplikasi lambat / loading terus</b></summary>
@@ -154,7 +154,7 @@ Buka **Play Store** (Android) atau **App Store** (iOS), cari **"HRM Arsitek Hija
 
 ---
 
-## 🔒 Keamanan
+## Keamanan
 
 <details>
 <summary><b>HP hilang / dicuri, apa yang harus dilakukan?</b></summary>

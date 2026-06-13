@@ -4,7 +4,7 @@ description: >-
 icon: key
 ---
 
-# 🔐 Ubah Password
+# Ubah Password
 
 Kamu bisa mengganti password akun kapan saja untuk keamanan.
 
@@ -50,7 +50,7 @@ Gunakan password yang **kuat dan unik** — jangan sama dengan akun pribadi lain
 
 ---
 
-## 🚨 Force Change Password
+## Force Change Password
 
 {% hint style="warning" %}
 Dalam situasi tertentu, sistem akan **memaksa** kamu mengganti password saat login. Ini **tidak bisa dilewati** — kamu harus ganti password dulu baru masuk dashboard.

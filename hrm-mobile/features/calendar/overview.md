@@ -21,35 +21,16 @@ Modul **Kalendar** (Calendar) menampilkan hari-hari penting seperti libur nasion
 
 ## Event yang Ditampilkan
 
-{% tabs %}
-{% tab title="🔴 Libur Nasional" %}
-{% hint style="danger" %}
-**Libur Nasional** — Hari libur yang ditetapkan pemerintah. Tidak ada kegiatan kerja.
-{% endhint %}
-{% endtab %}
-
-{% tab title="🟠 Cuti Bersama" %}
-{% hint style="warning" %}
-**Cuti Bersama** — Hari cuti yang ditetapkan perusahaan secara kolektif. Semua karyawan libur.
-{% endhint %}
-{% endtab %}
-
-{% tab title="🔵 Jadwal Kerja" %}
-{% hint style="info" %}
-**Jadwal Kerja** — Jadwal khusus yang berlaku pada hari tertentu (misal: shift, work from home).
-{% endhint %}
-{% endtab %}
-
-{% tab title="⚪ Akhir Pekan" %}
-{% hint style="info" %}
-**Hari Libur Akhir Pekan** — Sabtu dan Minggu (atau hari libur mingguan sesuai kebijakan).
-{% endhint %}
-{% endtab %}
-{% endtabs %}
+| Tipe Event | Keterangan |
+|---|---|
+| Libur Nasional | Hari libur yang ditetapkan pemerintah. Tidak ada kegiatan kerja. |
+| Cuti Bersama | Hari cuti yang ditetapkan perusahaan secara kolektif. Semua karyawan libur. |
+| Jadwal Kerja | Jadwal khusus yang berlaku pada hari tertentu (misal: shift, work from home). |
+| Akhir Pekan | Sabtu dan Minggu (atau hari libur mingguan sesuai kebijakan). |
 
 ## Detail Event
 
-{% details title="📅 Informasi yang muncul di detail event" %}
+{% details title="Informasi yang muncul di detail event" %}
 Tap pada tanggal tertentu untuk melihat event di hari itu:
 
 ![Detail Event](https://placehold.co/600x1200/1a1a2e/ffffff?text=detail-event)

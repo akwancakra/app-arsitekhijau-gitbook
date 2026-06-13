@@ -4,7 +4,7 @@ description: >-
 icon: clock
 ---
 
-# 🕐 Clock In & Clock Out
+# Clock In & Clock Out
 
 {% tabs %}
 {% tab title="🟢 Clock In" %}
@@ -74,7 +74,7 @@ Sistem mendeteksi lokasi GPS, lalu ambil **foto selfie**.
 
 ---
 
-## 🔧 Tips & Troubleshooting
+## Tips & Troubleshooting
 
 <details>
 <summary><b>GPS Error</b> — GPS tidak mendeteksi lokasi</summary>

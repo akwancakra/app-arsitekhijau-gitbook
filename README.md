@@ -4,7 +4,7 @@ description: >-
 icon: hand-wave
 ---
 
-# 🏗️ HRM Mobile Arsitek Hijau
+# HRM Mobile Arsitek Hijau
 
 Selamat datang di **HRM Mobile Arsitek Hijau** — aplikasi mobile HR terpadu untuk seluruh karyawan. Dokumentasi ini mencakup panduan lengkap dari instalasi hingga penggunaan semua fitur.
 
@@ -14,7 +14,7 @@ Selamat datang di **HRM Mobile Arsitek Hijau** — aplikasi mobile HR terpadu un
 
 ---
 
-## 🧭 Mulai dari mana?
+## Mulai dari mana?
 
 <table data-card-size="large" data-view="cards">
   <thead>
@@ -22,68 +22,68 @@ Selamat datang di **HRM Mobile Arsitek Hijau** — aplikasi mobile HR terpadu un
   </thead>
   <tbody>
     <tr>
-      <td><h4>🚀 Pertama Kali?</h4></td>
+      <td><h4>Pertama Kali?</h4></td>
       <td>Instalasi, login, dan pengaturan awal aplikasi.</td>
       <td></td>
-      <td><a href="hrm-mobile/getting-started/overview.md">📱 Pengenalan HRM Mobile</a></td>
+      <td><a href="hrm-mobile/getting-started/overview.md">Pengenalan HRM Mobile</a></td>
     </tr>
     <tr>
-      <td><h4>📋 Absensi</h4></td>
+      <td><h4>Absensi</h4></td>
       <td>Clock in/out, riwayat, dan koreksi absensi.</td>
       <td></td>
-      <td><a href="hrm-mobile/features/absensi/overview.md">📋 Overview Absensi</a></td>
+      <td><a href="hrm-mobile/features/absensi/overview.md">Overview Absensi</a></td>
     </tr>
     <tr>
-      <td><h4>🏖️ Cuti</h4></td>
+      <td><h4>Cuti</h4></td>
       <td>Saldo cuti, pengajuan, dan approval.</td>
       <td></td>
-      <td><a href="hrm-mobile/features/cuti/overview.md">🏖️ Overview Cuti</a></td>
+      <td><a href="hrm-mobile/features/cuti/overview.md">Overview Cuti</a></td>
     </tr>
     <tr>
-      <td><h4>⏰ Lembur</h4></td>
+      <td><h4>Lembur</h4></td>
       <td>Pengajuan dan approval lembur.</td>
       <td></td>
-      <td><a href="hrm-mobile/features/lembur/overview.md">⏰ Overview Lembur</a></td>
+      <td><a href="hrm-mobile/features/lembur/overview.md">Overview Lembur</a></td>
     </tr>
     <tr>
-      <td><h4>🔒 Akun & Keamanan</h4></td>
+      <td><h4>Akun & Keamanan</h4></td>
       <td>Edit profil, password, PIN dan biometric.</td>
       <td></td>
-      <td><a href="hrm-mobile/account/pin-biometric.md">🔒 PIN Lock & Biometric</a></td>
+      <td><a href="hrm-mobile/account/pin-biometric.md">PIN Lock & Biometric</a></td>
     </tr>
     <tr>
-      <td><h4>💡 FAQ</h4></td>
+      <td><h4>FAQ</h4></td>
       <td>Jawaban pertanyaan umum & troubleshooting.</td>
       <td></td>
-      <td><a href="hrm-mobile/other/faq.md">💡 FAQ / Troubleshooting</a></td>
+      <td><a href="hrm-mobile/other/faq.md">FAQ / Troubleshooting</a></td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-## 📦 Semua Halaman Dokumentasi
+## Semua Halaman Dokumentasi
 
 | Page | Tujuan |
 |---|---|
-| 📱 **Getting Started** | Pengenalan, instalasi, login, onboarding, pengaturan |
-| 🏠 **Dashboard Home** | Panduan halaman utama aplikasi |
-| 📋 **Absensi** | Clock in/out, riwayat, koreksi absensi |
-| 🏖️ **Cuti** | Saldo, pengajuan, approval cuti |
-| ⏰ **Lembur** | Pengajuan & approval lembur |
-| 🔄 **Shift** | Request & approval perubahan shift |
-| ✅ **Tugas** | Overview & mengelola tugas |
-| 💰 **Slip Gaji** | Lihat & download slip gaji |
-| ⚠️ **Peringatan** | Surat peringatan dari HR |
-| 📖 **SOP** | Dokumen SOP perusahaan |
-| 📢 **Pengumuman** | Pengumuman internal |
-| 💼 **Aset** | Aset perusahaan di-handover |
-| 📅 **Kalendar** | Kalendar kerja & hari libur |
-| 👥 **Organisasi** | Direktori karyawan |
-| ✏️ **Profile Change** | Request perubahan data profil |
-| 🔔 **Notifikasi** | Push notification & inbox |
-| 👤 **Akun & Keamanan** | PIN, biometric, password, clock reminder |
-| 📡 **Lainnya** | OTA update, help, FAQ |
+| **Getting Started** | Pengenalan, instalasi, login, onboarding, pengaturan |
+| **Dashboard Home** | Panduan halaman utama aplikasi |
+| **Absensi** | Clock in/out, riwayat, koreksi absensi |
+| **Cuti** | Saldo, pengajuan, approval cuti |
+| **Lembur** | Pengajuan & approval lembur |
+| **Shift** | Request & approval perubahan shift |
+| **Tugas** | Overview & mengelola tugas |
+| **Slip Gaji** | Lihat & download slip gaji |
+| **Peringatan** | Surat peringatan dari HR |
+| **SOP** | Dokumen SOP perusahaan |
+| **Pengumuman** | Pengumuman internal |
+| **Aset** | Aset perusahaan di-handover |
+| **Kalendar** | Kalendar kerja & hari libur |
+| **Organisasi** | Direktori karyawan |
+| **Profile Change** | Request perubahan data profil |
+| **Notifikasi** | Push notification & inbox |
+| **Akun & Keamanan** | PIN, biometric, password, clock reminder |
+| **Lainnya** | OTA update, help, FAQ |
 
 {% hint style="info" %}
 Dokumentasi ini terus dikembangkan. Ada saran? Hubungi **IT Support** di `it@arsitekhijau.com` atau **HR** di `hr@arsitekhijau.com`.
