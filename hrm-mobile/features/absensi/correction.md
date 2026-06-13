@@ -8,19 +8,12 @@ icon: pen
 
 Jika ada **kesalahan** pada absensi (lupa clock in, lupa clock out, atau salah waktu), kamu bisa mengajukan **koreksi absensi** melalui aplikasi.
 
-## Jenis Koreksi
-
-| Jenis | Deskripsi | Ketersediaan |
-|---|---|---|
-| **Same Day Correction** | Koreksi untuk hari ini | ✅ Selalu tersedia |
-| **Past Day Correction** | Koreksi untuk hari sebelumnya | ✅ Jika diaktifkan oleh HR |
-| **Shift Change** | Request perubahan shift | ✅ Modul terpisah |
-
-## Same Day Correction
+{% tabs %}
+{% tab title="Same Day Correction" %}
 
 Digunakan jika kamu melakukan kesalahan absensi **hari ini** (misal: lupa foto, lupa catatan).
 
-![Same Day Correction](.assets/images/hrm-mobile/absensi/same-day-correction.png)
+![Form same day correction untuk koreksi absensi hari ini](https://placehold.co/600x400/1a1a2e/ffffff?text=same-day-correction)
 
 **Cara:**
 1. Buka halaman **Absensi**
@@ -31,13 +24,16 @@ Digunakan jika kamu melakukan kesalahan absensi **hari ini** (misal: lupa foto, 
    - Waktu yang benar (jika perlu)
 5. Tap **Kirim**
 
-> Koreksi same day akan langsung diproses tanpa perlu approval (tergantung kebijakan HR).
+{% hint style="success" %}
+Koreksi same day akan langsung diproses tanpa perlu approval (tergantung kebijakan HR).
+{% endhint %}
 
-## Past Day Correction
+{% endtab %}
+{% tab title="Past Day Correction" %}
 
 Digunakan jika **lupa absen** di hari sebelumnya.
 
-![Past Day Correction](.assets/images/hrm-mobile/absensi/past-day-correction.png)
+![Form past day correction dengan pilihan tanggal dan tipe koreksi](https://placehold.co/600x400/1a1a2e/ffffff?text=past-day-correction)
 
 **Cara:**
 1. Buka halaman **Absensi**
@@ -53,23 +49,32 @@ Digunakan jika **lupa absen** di hari sebelumnya.
 8. (Opsional) Lampirkan **dokumen pendukung** (surat dokter, dll)
 9. Tap **Kirim**
 
+{% hint style="warning" %}
+Past Day Correction **membutuhkan approval** dari atasan langsung. Proses koreksi tidak langsung berlaku hingga disetujui.
+{% endhint %}
+
 ### Proses Selanjutnya
 
 - Permintaan masuk ke **approver** (atasan langsung)
 - Approver akan **menyetujui atau menolak**
 - Kamu mendapat notifikasi hasil koreksi
 
+{% endtab %}
+{% endtabs %}
+
 ## Melihat Status Koreksi
 
 Status pengajuan koreksi bisa dilihat di tab **Requests** (icon clipboard di bottom tab):
 
+{% table data-view="cards" %}
 | Status | Arti |
-|---|---|
-| **Pending** | Menunggu approval atasan |
-| **Approved** | Disetujui — absensi sudah diperbaiki |
-| **Rejected** | Ditolak — absensi tidak berubah |
+| --- | --- |
+| **Pending** ⏳ | Menunggu approval atasan |
+| **Approved** ✅ | Disetujui — absensi sudah diperbaiki |
+| **Rejected** ❌ | Ditolak — absensi tidak berubah |
+{% /table %}
 
-![Status Koreksi di Tab Requests](.assets/images/hrm-mobile/absensi/status-koreksi.png)
+![Daftar status koreksi di tab Requests aplikasi](https://placehold.co/600x400/1a1a2e/ffffff?text=status-koreksi)
 
 ***
 

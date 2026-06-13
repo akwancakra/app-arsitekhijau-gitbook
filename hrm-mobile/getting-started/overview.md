@@ -4,55 +4,70 @@ description: >-
 icon: mobile-screen-button
 ---
 
-# Pengenalan HRM Mobile
+# 📱 Pengenalan HRM Mobile
 
-**HRM Mobile Arsitek Hijau** adalah aplikasi mobile HR terpadu yang dirancang khusus untuk memudahkan seluruh karyawan Arsitek Hijau dalam mengelola aktivitas HR sehari-hari langsung dari smartphone.
+**HRM Mobile Arsitek Hijau** adalah aplikasi mobile HR terpadu yang dirancang khusus untuk memudahkan seluruh karyawan dalam mengelola aktivitas HR sehari-hari langsung dari smartphone.
 
-![Logo HRM Mobile](.assets/images/hrm-mobile/getting-started/logo-app.png)
+![Logo dan tampilan utama aplikasi HRM Mobile](https://placehold.co/600x1200/1a1a2e/ffffff?text=logo-app)
 
-## Apa yang Bisa Kamu Lakukan?
+{% hint style="success" %}
+Aplikasi ini mendukung **Bahasa Indonesia** dan **English**. Semua fitur bisa diakses dalam dua bahasa!
+{% endhint %}
 
-### Manajemen Kehadiran
-- **Clock In / Clock Out** dengan GPS dan foto selfie
-- Lihat **riwayat absensi** harian
-- **Koreksi absensi** jika lupa atau ada kesalahan
+---
 
-### Pengajuan & Approval
-- Ajukan **cuti**, **lembur**, dan **perubahan shift**
-- **Profile change request** untuk update data pribadi
-- Approve atau reject permintaan dari bawahan (untuk role approver)
+## 🎯 Apa yang Bisa Kamu Lakukan?
 
-### Informasi & Dokumen
-- Lihat **slip gaji** bulanan dan download PDF
-- Akses **SOP** perusahaan
-- Baca **pengumuman** internal
-- Cek **surat peringatan** (jika ada)
+<table data-view="cards">
+  <thead><tr><th></th><th></th></tr></thead>
+  <tbody>
+    <tr>
+      <td><h4>🕐 Manajemen Kehadiran</h4></td>
+      <td><strong>Clock In / Clock Out</strong> dengan GPS dan foto selfie • Lihat <strong>riwayat absensi</strong> • <strong>Koreksi absensi</strong> jika lupa atau salah</td>
+    </tr>
+    <tr>
+      <td><h4>📝 Pengajuan & Approval</h4></td>
+      <td>Ajukan <strong>cuti</strong>, <strong>lembur</strong>, dan <strong>perubahan shift</strong> • <strong>Profile change request</strong> • Approve / reject dari bawahan (role approver)</td>
+    </tr>
+    <tr>
+      <td><h4>📂 Informasi & Dokumen</h4></td>
+      <td>Lihat <strong>slip gaji</strong> & download PDF • Akses <strong>SOP</strong> perusahaan • Baca <strong>pengumuman</strong> • Cek <strong>surat peringatan</strong></td>
+    </tr>
+    <tr>
+      <td><h4>🛠️ Tools Pendukung</h4></td>
+      <td><strong>Dashboard</strong> personal • <strong>Tugas</strong> yang perlu dikerjakan • <strong>Direktori karyawan</strong> • <strong>Kalendar</strong> libur & jadwal</td>
+    </tr>
+  </tbody>
+</table>
 
-### Tools Pendukung
-- **Dashboard** personal dengan ringkasan aktivitas
-- **Tugas** yang perlu dikerjakan
-- **Direktori karyawan** & struktur organisasi
-- **Kalendar** libur dan jadwal kerja
+---
 
-## Fitur Keamanan
-- **PIN Lock 6-digit** untuk mengamankan aplikasi
-- **Biometric** (fingerprint / FaceID) unlock
-- **Sesi login** aman dengan token otomatis refresh
+## 🔐 Fitur Keamanan
 
-## Siapa yang Bisa Menggunakan?
+| Fitur | Deskripsi |
+|---|---|
+| **PIN Lock 6-digit** | Kode pin wajib setiap buka aplikasi |
+| **Biometric Unlock** | Fingerprint / FaceID sebagai alternatif PIN |
+| **Token Otomatis** | Sesi login aman, token refresh otomatis |
 
-Semua karyawan Arsitek Hijau yang sudah memiliki akun HR. Role **approver** (atasan/manager) memiliki akses tambahan untuk menyetujui atau menolak permintaan dari anggota tim.
+{% hint style="warning" %}
+**Keamanan itu penting.** Aktifkan PIN & Biometric untuk melindungi data pribadi kamu. Lihat [PIN Lock & Biometric](../../account/pin-biometric.md).
+{% endhint %}
 
-## Bahasa yang Didukung
+---
 
-Aplikasi mendukung:
-- **Bahasa Indonesia** (default)
-- **English**
+## 👥 Siapa yang Bisa Menggunakan?
 
-Pengaturan bahasa bisa diubah kapan saja di menu **Account → Pengaturan**.
+Semua karyawan Arsitek Hijau yang sudah memiliki akun HR. **Role approver** (atasan/manager) memiliki akses tambahan untuk menyetujui atau menolak permintaan dari anggota tim.
 
-![Pilihan Bahasa](.assets/images/hrm-mobile/getting-started/pilihan-bahasa.png)
+---
 
-***
+## 🌐 Bahasa yang Didukung
+
+Aplikasi mendukung **Bahasa Indonesia** (default) dan **English**. Pengaturan bahasa bisa diubah kapan saja di menu **Account → Pengaturan**.
+
+![Pilihan Bahasa](https://placehold.co/600x1200/1a1a2e/ffffff?text=pilihan-bahasa)
+
+---
 
 **Lanjut ke:** [Instalasi & Setup Aplikasi](installation.md)

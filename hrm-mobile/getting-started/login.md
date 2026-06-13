@@ -4,42 +4,50 @@ description: >-
 icon: right-to-bracket
 ---
 
-# Login & Registrasi
+# 🔑 Login & Registrasi
 
 ## Login
 
 Setelah aplikasi terinstal, kamu akan melihat halaman **Login**.
 
-![Halaman Login](.assets/images/hrm-mobile/getting-started/halaman-login.png)
+![Tampilan halaman login](https://placehold.co/600x1200/1a1a2e/ffffff?text=halaman-login)
 
 **Langkah-langkah:**
 
-1. Masukkan **Email** perusahaan kamu (contoh: `nama@arsitekhijau.com`)
+1. Masukkan **Email** perusahaan kamu
+   > Contoh: `nama@arsitekhijau.com`
 2. Masukkan **Password** yang sudah didaftarkan
 3. Tap tombol **Masuk** (Login)
 4. Tunggu beberapa saat hingga masuk ke halaman utama
 
-> **Troubleshooting:** Jika muncul error "Email atau password salah", cek kembali email dan password kamu. Jika lupa password, tap **Lupa Password?**.
+{% hint style="info" %}
+**Device ID:** Saat pertama login, aplikasi mendaftarkan perangkat kamu dengan Device ID unik. Setiap sesi login terikat dengan perangkat tertentu untuk keamanan.
+{% endhint %}
 
-### Apa itu Device ID?
-
-Saat pertama login, aplikasi akan mendaftarkan perangkat kamu dengan **Device ID** unik. Ini untuk keamanan — setiap sesi login terikat dengan perangkat tertentu.
+---
 
 ## Registrasi (Jika Diperlukan)
 
-Ada dua skenario:
-
-### 1. Akun sudah dibuat oleh HR
+{% tabs %}
+{% tab title="Akun Dibuat oleh HR" %}
 
 Kamu akan menerima **email dari HR** berisi:
 - Alamat email terdaftar
 - Link untuk membuat password pertama kali
 
-Klik link tersebut, buat password, lalu login di aplikasi.
+1. Klik link di email
+2. Buat password baru
+3. Login di aplikasi dengan password tersebut
 
-### 2. Registrasi mandiri (jika diaktifkan)
+{% hint style="success" %}
+Setelah login pertama, kamu **mungkin diminta mengganti password**. Ini adalah prosedur keamanan standar.
+{% endhint %}
 
-![Halaman Registrasi](.assets/images/hrm-mobile/getting-started/halaman-registrasi.png)
+{% endtab %}
+
+{% tab title="Registrasi Mandiri" %}
+
+![Tampilan halaman registrasi](https://placehold.co/600x1200/1a1a2e/ffffff?text=halaman-registrasi)
 
 1. Di halaman login, tap **Daftar** (Register)
 2. Isi data yang diperlukan:
@@ -52,9 +60,18 @@ Klik link tersebut, buat password, lalu login di aplikasi.
 4. Cek email untuk verifikasi (jika diperlukan)
 5. Login dengan akun yang sudah dibuat
 
+{% hint style="warning" %}
+Fitur registrasi mandiri hanya tersedia jika diaktifkan oleh HR. Jika tidak tersedia, hubungi HR untuk pembuatan akun.
+{% endhint %}
+
+{% endtab %}
+{% endtabs %}
+
+---
+
 ## Lupa Password
 
-![Halaman Lupa Password](.assets/images/hrm-mobile/getting-started/lupa-password.png)
+![Halaman lupa password](https://placehold.co/600x1200/1a1a2e/ffffff?text=lupa-password)
 
 1. Di halaman login, tap **Lupa Password?**
 2. Masukkan **Email** perusahaan kamu
@@ -63,8 +80,32 @@ Klik link tersebut, buat password, lalu login di aplikasi.
 5. Klik link di email, buat password baru
 6. Kembali ke aplikasi dan login dengan password baru
 
-> **Catatan:** Link reset password memiliki masa berlaku terbatas. Jika tidak menerima email, cek folder **Spam** atau hubungi IT support.
+{% hint style="warning" %}
+Link reset password memiliki **masa berlaku terbatas**. Jika tidak menerima email:
+- Cek folder **Spam** atau **Promotions**
+- Hubungi **IT Support** di `it@arsitekhijau.com`
+{% endhint %}
 
-***
+---
+
+## ❓ Troubleshooting Login
+
+{% details title="Muncul error 'Email atau password salah'" %}
+- Cek kembali email (domain @arsitekhijau.com)
+- Pastikan **caps lock** tidak aktif
+- Gunakan **Lupa Password** untuk reset
+{% enddetails %}
+
+{% details title="Akun terkunci karena salah password berkali-kali" %}
+Hubungi IT support untuk membuka kunci akun: `it@arsitekhijau.com`
+{% enddetails %}
+
+{% details title="Tidak bisa login — koneksi error" %}
+- Pastikan koneksi internet stabil
+- Coba ganti WiFi ke data seluler (atau sebaliknya)
+- Restart aplikasi
+{% enddetails %}
+
+---
 
 **Lanjut ke:** [Onboarding (Pengaturan Awal)](onboarding.md)

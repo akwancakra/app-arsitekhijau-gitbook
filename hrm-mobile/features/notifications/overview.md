@@ -8,21 +8,48 @@ icon: bell
 
 Modul **Notifikasi** menampilkan semua pemberitahuan dari aplikasi, baik dari sistem, approval, pengumuman, maupun pengingat.
 
+{% hint style="info" %}
+**Badge Unread** — Jumlah notifikasi **belum dibaca** ditampilkan sebagai badge merah di icon bell pada Dashboard. Segera cek notifikasi baru agar tidak ketinggalan informasi penting.
+{% endhint %}
+
 ## Jenis Notifikasi
 
-| Tipe | Contoh |
-|---|---|
-| **Approval** | Cuti disetujui / ditolak, lembur di-approve |
-| **Pengumuman** | Pengumuman baru dari HR |
-| **Pengingat** | Waktunya clock in / clock out |
-| **Sistem** | Update aplikasi, info penting |
+{% tabs %}
+{% tab title="✅ Approval" %}
+{% hint style="success" %}
+**Approval** — Pemberitahuan terkait persetujuan cuti, lembur, koreksi absensi, dan perubahan data profil.
+{% endhint %}
+Contoh: "Cuti disetujui", "Lembur di-approve"
+{% endtab %}
+
+{% tab title="📢 Pengumuman" %}
+{% hint style="info" %}
+**Pengumuman** — Informasi resmi terbaru dari HR atau Manajemen perusahaan.
+{% endhint %}
+Contoh: "Pengumuman baru: Kebijakan WFH"
+{% endtab %}
+
+{% tab title="⏰ Pengingat" %}
+{% hint style="warning" %}
+**Pengingat** — Alarm untuk melakukan clock in / clock out atau tugas yang harus segera dikerjakan.
+{% endhint %}
+Contoh: "Waktunya clock in!", "Deadline tugas hari ini"
+{% endtab %}
+
+{% tab title="⚙️ Sistem" %}
+{% hint style="info" %}
+**Sistem** — Informasi teknis seperti update aplikasi, pemeliharaan, atau notifikasi penting lainnya.
+{% endhint %}
+Contoh: "Update aplikasi versi 2.0 tersedia"
+{% endtab %}
+{% endtabs %}
 
 ## Cara Melihat
 
 1. Tap icon **bell** (lonceng) di pojok kanan atas Dashboard
 2. Akan masuk ke halaman **Inbox Notifikasi**
 
-![Inbox Notifikasi](.assets/images/hrm-mobile/notifications/inbox.png)
+![Inbox Notifikasi](https://placehold.co/600x1200/1a1a2e/ffffff?text=inbox)
 
 ## Fitur Inbox
 
@@ -35,7 +62,9 @@ Modul **Notifikasi** menampilkan semua pemberitahuan dari aplikasi, baik dari si
 
 ## Tap to Navigate
 
-Salah satu fitur terbaik: tap pada notifikasi akan langsung membawa kamu ke halaman yang relevan.
+{% hint style="success" %}
+**Tap to Navigate** — Fitur unggulan: tap pada notifikasi akan langsung membawa kamu ke halaman yang relevan. Tidak perlu mencari menu manual!
+{% endhint %}
 
 | Notifikasi | Tujuan |
 |---|---|
@@ -44,10 +73,6 @@ Salah satu fitur terbaik: tap pada notifikasi akan langsung membawa kamu ke hala
 | "Pengumuman baru" | Detail pengumuman |
 | "Koreksi absensi" | Detail koreksi |
 | "Peringatan baru" | Detail peringatan |
-
-## Badge Unread
-
-Jumlah notifikasi **belum dibaca** ditampilkan sebagai badge merah di icon bell pada Dashboard.
 
 ***
 

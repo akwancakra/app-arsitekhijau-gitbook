@@ -8,16 +8,37 @@ icon: user-pen
 
 Modul **Profile Change Request** memungkinkan kamu mengajukan perubahan data profil pribadi tanpa harus datang ke HR. Cukup ajukan melalui aplikasi, dan HR / atasan akan memprosesnya.
 
+{% hint style="info" %}
+**Dokumen Pendukung** — Setiap section perubahan membutuhkan dokumen pendukung yang berbeda. Pastikan kamu menyiapkan dokumen yang sesuai sebelum mengajukan.
+{% endhint %}
+
 ## Data yang Bisa Diubah
 
-| Section | Data |
-|---|---|
-| **Personal Information** | Nama, tempat/tanggal lahir, jenis kelamin, status pernikahan, agama |
-| **Family Detail** | Data pasangan, data anak, orang tua |
-| **Emergency Contact** | Kontak darurat (nama, hubungan, telepon) |
-| **Education & Experience** | Riwayat pendidikan, pengalaman kerja |
-| **Additional Info** | Informasi tambahan |
-| **Bank Information** | Data rekening bank untuk payroll |
+{% tabs %}
+{% tab title="👤 Personal" %}
+**Personal Information** — Nama, tempat/tanggal lahir, jenis kelamin, status pernikahan, agama.
+{% endtab %}
+
+{% tab title="👨‍👩‍👧 Family" %}
+**Family Detail** — Data pasangan, data anak, orang tua.
+{% endtab %}
+
+{% tab title="📞 Emergency" %}
+**Emergency Contact** — Kontak darurat (nama, hubungan, telepon).
+{% endtab %}
+
+{% tab title="🎓 Education" %}
+**Education & Experience** — Riwayat pendidikan, pengalaman kerja.
+{% endtab %}
+
+{% tab title="📋 Additional" %}
+**Additional Info** — Informasi tambahan lainnya.
+{% endtab %}
+
+{% tab title="🏦 Bank" %}
+**Bank Information** — Data rekening bank untuk payroll.
+{% endtab %}
+{% endtabs %}
 
 ## Fitur yang Tersedia
 
@@ -27,6 +48,12 @@ Modul **Profile Change Request** memungkinkan kamu mengajukan perubahan data pro
 | **Lampiran** | Upload dokumen pendukung (KTP, KK, Ijazah, dll) |
 | **Riwayat Request** | Daftar pengajuan (pending/approved/rejected) |
 | **Approval** | (Khusus approver) Setujui/tolak request |
+
+## Sub-Page
+
+| Halaman | Deskripsi |
+|---|---|
+| [Request & Approval](request.md) | Panduan mengajukan perubahan dan proses approval |
 
 ***
 

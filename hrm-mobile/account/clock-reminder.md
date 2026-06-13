@@ -13,7 +13,7 @@ Fitur **Clock Reminder** akan mengirimkan notifikasi pengingat untuk clock in da
 1. Buka tab **Account**
 2. Tap **Clock Reminder**
 
-![Clock Reminder Settings](.assets/images/hrm-mobile/account/clock-reminder.png)
+![Clock Reminder Settings](https://placehold.co/600x400/1a1a2e/ffffff?text=clock-reminder)
 
 ### Pengaturan
 
@@ -32,17 +32,25 @@ Fitur **Clock Reminder** akan mengirimkan notifikasi pengingat untuk clock in da
 
 ## Cara Kerja
 
+{% details title="Klik untuk melihat cara kerja reminder" %}
 - Setiap hari pada jam yang ditentukan, aplikasi akan mengirim **notifikasi lokal**
 - Notifikasi muncul di **notification bar** HP
 - Tap notifikasi → langsung ke halaman absensi
+{% enddetails %}
+
+{% hint style="info" %}
+Reminder tetap berfungsi meskipun aplikasi sedang tertutup (background).
+{% endhint %}
 
 ## Nonaktifkan
+
+{% hint style="warning" %}
+Dengan menonaktifkan reminder, kamu tidak akan mendapat pengingat clock in/out. Pastikan kamu mengatur alarm sendiri jika perlu.
+{% endhint %}
 
 1. Buka **Account → Clock Reminder**
 2. Matikan toggle
 3. Atur toggle **Clock Reminder** ke OFF
-
-> **Catatan:** Fitur ini tetap berfungsi meskipun aplikasi sedang tertutup (background).
 
 ***
 

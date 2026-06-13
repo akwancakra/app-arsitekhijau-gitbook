@@ -10,11 +10,15 @@ Saldo cuti menampilkan **sisa jatah cuti** kamu untuk setiap jenis cuti pada tah
 
 ## Cara Melihat Saldo Cuti
 
-![Halaman Cuti - Saldo](.assets/images/hrm-mobile/cuti/halaman-cuti.png)
+![Halaman cuti — tampilan saldo di bagian atas](https://placehold.co/600x1200/1a1a2e/ffffff?text=halaman-cuti)
 
 1. Dari **Dashboard Home**, tap icon **🏖️ Cuti**
 2. Atau dari tab **Requests**, pilih tab **Cuti**
 3. Di bagian atas halaman, kamu akan melihat **card saldo cuti**
+
+{% hint style="warning" %}
+Jika ada cuti yang sudah diajukan dan masih berstatus **Pending**, saldo yang ditampilkan sudah **dikurangi** dengan pengajuan pending tersebut.
+{% endhint %}
 
 ## Informasi di Card Saldo
 
@@ -28,18 +32,21 @@ Setiap card saldo cuti menampilkan:
 | **Terpakai** | 7 hari |
 | **Progress Bar** | Visual sisa vs total |
 
-![Card Saldo Cuti](.assets/images/hrm-mobile/cuti/card-saldo.png)
+![Card saldo per jenis cuti dengan progress bar](https://placehold.co/600x400/1a1a2e/ffffff?text=card-saldo)
 
 ## Jenis Saldo yang Ditampilkan
 
-Saldo cuti yang muncul tergantung kebijakan perusahaan dan status karyawan. Beberapa contoh:
-- **Cuti Tahunan**: 12 hari (sisa 5)
-- **Cuti Sakit**: Menyesuaikan kebijakan
-- **Cuti Menikah**: 3 hari (khusus)
-- **Cuti Keluarga Meninggal**: 2 hari (khusus)
-- **Cuti Haji**: 30 hari (khusus)
+Saldo cuti yang muncul tergantung kebijakan perusahaan dan status karyawan:
 
-> **Catatan:** Jika ada cuti yang sudah diajukan dan masih **Pending**, saldo yang ditampilkan sudah **dikurangi** dengan pengajuan pending tersebut.
+{% table data-view="cards" %}
+| Jenis Cuti | Detail Saldo |
+| --- | --- |
+| **Cuti Tahunan** | 12 hari jatah — sisa menyesuaikan pemakaian |
+| **Cuti Sakit** | Menyesuaikan kebijakan perusahaan |
+| **Cuti Menikah** | 3 hari (khusus) — tidak mengurangi jatah tahunan |
+| **Cuti Keluarga Meninggal** | 2 hari (khusus) — tidak mengurangi jatah tahunan |
+| **Cuti Haji** | 30 hari (khusus) — tidak mengurangi jatah tahunan |
+{% /table %}
 
 ***
 

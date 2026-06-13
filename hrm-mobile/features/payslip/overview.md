@@ -8,6 +8,10 @@ icon: file-invoice-dollar
 
 Modul **Slip Gaji** (Payslip) memungkinkan kamu melihat rincian gaji bulanan dan mengunduhnya dalam format PDF.
 
+{% hint style="danger" %}
+**Data Sensitif & Rahasia** — Informasi slip gaji bersifat pribadi dan rahasia. Jangan bagikan detail gaji kamu kepada pihak lain.
+{% endhint %}
+
 ## Fitur yang Tersedia
 
 | Fitur | Deskripsi |
@@ -26,6 +30,12 @@ Setiap slip gaji menampilkan:
 - **Potongan** (BPJS, PPh, pinjaman, dll)
 - **Total Take Home Pay**
 - **Detail komponen** lainnya
+
+## Sub-Page
+
+| Halaman | Deskripsi |
+|---|---|
+| [Melihat & Download Slip Gaji](download.md) | Panduan melihat detail dan mengunduh slip gaji |
 
 ***
 

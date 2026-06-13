@@ -14,7 +14,7 @@ Halaman ini khusus untuk **approver** (atasan / manager) yang bertugas menyetuju
 2. Pilih tab **Approval**
 3. Lihat daftar pengajuan lembur bawahan yang **Pending**
 
-![Daftar Approval Lembur](.assets/images/hrm-mobile/lembur/daftar-approval.png)
+![Daftar pengajuan lembur yang menunggu approval](https://placehold.co/600x1200/1a1a2e/ffffff?text=daftar-approval)
 
 Setiap item menampilkan:
 - Nama pengaju
@@ -27,17 +27,28 @@ Setiap item menampilkan:
 
 Tap pada request untuk melihat detail:
 
-![Detail Approval Lembur](.assets/images/hrm-mobile/lembur/detail-approval.png)
+![Detail approval lembur dengan informasi lengkap dan tombol aksi](https://placehold.co/600x1200/1a1a2e/ffffff?text=detail-approval)
 
-**Setujui:**
+{% tabs %}
+{% tab title="Menyetujui Lembur" %}
+
+### Cara Menyetujui
+
 1. Tap **Setujui** (Approve)
 2. (Opsional) Tambahkan catatan
 3. Konfirmasi
 
-**Tolak:**
+{% endtab %}
+{% tab title="Menolak Lembur" %}
+
+### Cara Menolak
+
 1. Tap **Tolak** (Reject)
 2. Tulis **alasan penolakan** (wajib)
 3. Konfirmasi
+
+{% endtab %}
+{% endtabs %}
 
 Pengaju akan mendapat notifikasi hasil approval.
 

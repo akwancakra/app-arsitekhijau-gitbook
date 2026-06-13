@@ -13,39 +13,51 @@ Kamu bisa mengganti password akun kapan saja untuk keamanan.
 1. Buka tab **Account**
 2. Tap **Ubah Password** (Change Password)
 
-![Form Ubah Password](.assets/images/hrm-mobile/account/form-ubah-password.png)
+![Form Ubah Password](https://placehold.co/600x1200/1a1a2e/ffffff?text=form-ubah-password)
 
-### Form
+### Langkah-langkah
 
-| Field | Deskripsi |
-|---|---|
-| **Password Saat Ini** | Password lama kamu |
-| **Password Baru** | Password baru yang akan dipakai |
-| **Konfirmasi Password Baru** | Ketik ulang password baru |
+{% hint style="info" %}
+**Langkah 1:** Masukkan password lama kamu pada field **Password Saat Ini**
+{% endhint %}
+
+{% hint style="info" %}
+**Langkah 2:** Masukkan password baru pada field **Password Baru**, lalu ketik ulang pada **Konfirmasi Password Baru**
+{% endhint %}
+
+{% hint style="info" %}
+**Langkah 3:** Tap **Simpan** — Password berhasil diubah
+{% endhint %}
 
 ### Syarat Password
 
-- Minimal 8 karakter
+{% hint style="info" %}
+Password baru harus memenuhi syarat berikut:
+- Minimal **8 karakter**
 - Mengandung huruf **besar** dan **kecil**
 - Mengandung **angka**
 - (Opsional) Mengandung karakter khusus
-
-3. Tap **Simpan**
-4. Password berhasil diubah
+{% endhint %}
 
 ## Force Change Password
 
-Dalam situasi tertentu, sistem akan **memaksa** kamu mengganti password saat login. Ini terjadi jika:
+{% hint style="warning" %}
+Dalam situasi tertentu, sistem akan **memaksa** kamu mengganti password saat login. Ini adalah situasi khusus yang tidak bisa dilewati.
+{% endhint %}
+
+Force change terjadi jika:
 
 - Ini adalah **login pertama** kamu
 - HR me-wajibkan **reset password berkala**
 - Admin HR melakukan **reset password**
 
-![Force Change Password](.assets/images/hrm-mobile/account/force-change-password.png)
+![Force Change Password](https://placehold.co/600x1200/1a1a2e/ffffff?text=force-change-password)
 
 Jika dipaksa, kamu tidak bisa melanjutkan ke dashboard sebelum mengganti password.
 
-> **Tips:** Jangan gunakan password yang sama dengan akun pribadi. Gunakan password yang kuat dan unik.
+{% hint style="success" %}
+**Tips:** Jangan gunakan password yang sama dengan akun pribadi. Gunakan password yang kuat dan unik.
+{% endhint %}
 
 ***
 

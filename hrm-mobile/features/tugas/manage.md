@@ -11,7 +11,11 @@ icon: list-check
 1. Tap tab **Tasks** (icon clipboard di bottom tab)
 2. Daftar tugas tampil dengan **infinite scroll** (scroll untuk muat lebih banyak)
 
-![Daftar Tugas](.assets/images/hrm-mobile/tugas/daftar-tugas.png)
+{% hint style="info" %}
+**Infinite Scroll** — Daftar tugas akan terus memuat data saat kamu scroll ke bawah. Tidak perlu tap tombol "Load More".
+{% endhint %}
+
+![Daftar Tugas](https://placehold.co/600x1200/1a1a2e/ffffff?text=daftar-tugas)
 
 Setiap item tugas menampilkan:
 - **Judul tugas**
@@ -22,31 +26,53 @@ Setiap item tugas menampilkan:
 
 ## Filter & Sort
 
-### Filter Status
-Tap filter tab untuk memilih status:
-- **All** — semua tugas
-- **Pending**
-- **In Progress**
-- **In Review**
-- **Done**
+{% tabs %}
+{% tab title="🔍 Filter Status" %}
+Pilih status untuk menyaring tugas:
 
-### Filter Project
-1. Tap icon filter
+| Pilihan | Hasil |
+|---|---|
+| **All** | Semua tugas |
+| **Pending** | Tugas yang belum dikerjakan |
+| **In Progress** | Tugas yang sedang dikerjakan |
+| **In Review** | Tugas menunggu review |
+| **Done** | Tugas yang sudah selesai |
+
+Tap filter tab untuk memilih status yang diinginkan.
+{% endtab %}
+
+{% tab title="📂 Filter Project" %}
+1. Tap icon **filter**
 2. Pilih project scope
-3. Tugas akan difilter berdasarkan project
+3. Tugas akan difilter berdasarkan project yang dipilih
 
-### Sort
-1. Tap icon sort
+{% hint style="info" %}
+Filter project berguna jika kamu bekerja di banyak project sekaligus. Fokus pada satu project dalam satu waktu.
+{% endhint %}
+{% endtab %}
+
+{% tab title="📊 Sort" %}
+1. Tap icon **sort**
 2. Pilih urutan:
-   - **Berdasarkan Tanggal** (terbaru / terlama)
-   - **Berdasarkan Status**
-   - **Berdasarkan Prioritas**
+
+| Opsi | Keterangan |
+|---|---|
+| **Tanggal Terbaru** | Tugas dengan deadline terdekat di atas |
+| **Tanggal Terlama** | Tugas dengan deadline terjauh di atas |
+| **Berdasarkan Status** | Urut berdasarkan tahap pengerjaan |
+| **Berdasarkan Prioritas** | Prioritas tertinggi di atas |
+
+{% hint style="success" %}
+**Tips:** Gunakan sort **Berdasarkan Prioritas** untuk melihat tugas mana yang paling mendesak.
+{% endhint %}
+{% endtab %}
+{% endtabs %}
 
 ## Detail Tugas
 
 Tap pada tugas untuk melihat detail:
 
-![Detail Tugas](.assets/images/hrm-mobile/tugas/detail-tugas.png)
+![Detail Tugas](https://placehold.co/600x1200/1a1a2e/ffffff?text=detail-tugas)
 
 Detail meliputi:
 - Judul dan deskripsi tugas

@@ -4,66 +4,93 @@ description: >-
 icon: sliders
 ---
 
-# Pengaturan & Preferensi
+# ⚙️ Pengaturan & Preferensi
 
-Pengaturan aplikasi bisa diakses dari tab **Account** (icon orang) di pojok kanan bawah.
+Semua pengaturan aplikasi bisa diakses dari tab **Account** (icon orang di pojok kanan bawah).
 
-![Menu Account](.assets/images/hrm-mobile/getting-started/menu-account.png)
+![Menu Account - akses pengaturan](https://placehold.co/600x1200/1a1a2e/ffffff?text=menu-account)
 
-## Tampilan (Theme)
+---
+
+{% tabs %}
+{% tab title="🎨 Tampilan (Theme)" %}
 
 Aplikasi mendukung 3 mode tampilan:
 
 | Mode | Deskripsi |
 |---|---|
-| **Terang** (Light) | Latar putih, teks gelap — mode default |
-| **Gelap** (Dark) | Latar gelap, teks terang — nyaman di malam hari |
-| **Sistem** (System) | Mengikuti pengaturan tema HP kamu |
+| ☀️ **Terang** (Light) | Latar putih, teks gelap — default |
+| 🌙 **Gelap** (Dark) | Latar gelap, teks terang — nyaman di malam hari |
+| 📱 **Sistem** (System) | Mengikuti pengaturan tema HP |
 
-Untuk mengubah:
-1. Buka **Account** tab
-2. Tap **Pengaturan** (Settings)
-3. Cari bagian **Tampilan**
-4. Pilih mode yang diinginkan
+**Cara mengubah:**
+1. Buka **Account** tab → scroll ke **Pengaturan**
+2. Cari bagian **Tampilan**
+3. Pilih mode yang diinginkan
 
-![Pilihan Tema](.assets/images/hrm-mobile/getting-started/pengaturan-tema.png)
+![Pilihan tema light/dark/system](https://placehold.co/600x1200/1a1a2e/ffffff?text=pengaturan-tema)
 
-## Bahasa (Language)
+{% hint style="info" %}
+Perubahan tema langsung diterapkan tanpa restart.
+{% endhint %}
 
-1. Buka **Account** tab
-2. Tap **Pengaturan**
-3. Cari bagian **Bahasa**
-4. Pilih:
-   - **Bahasa Indonesia**
-   - **English**
+{% endtab %}
 
-Perubahan bahasa diterapkan langsung tanpa perlu restart aplikasi.
+{% tab title="🌐 Bahasa (Language)" %}
 
-## Notifikasi
+1. Buka **Account** → **Pengaturan**
+2. Cari bagian **Bahasa**
+3. Pilih:
+   - 🇮🇩 **Bahasa Indonesia**
+   - 🇬🇧 **English**
 
-1. Buka **Account → Pengaturan**
-2. Pada bagian **Notifikasi**, aktifkan atau nonaktifkan:
-   - **Push Notification** — notifikasi dari aplikasi
-   - **Pengingat Clock In** — notifikasi jadwal masuk
-   - **Pengingat Clock Out** — notifikasi jadwal pulang
+{% hint style="success" %}
+Perubahan bahasa diterapkan langsung — tidak perlu restart aplikasi.
+{% endhint %}
 
-> **Catatan:** Kamu juga perlu mengizinkan notifikasi di pengaturan HP untuk menerima notifikasi.
+{% endtab %}
 
-## Auto Update OTA
+{% tab title="🔔 Notifikasi" %}
 
-Fitur ini memungkinkan aplikasi menerima **update fitur terbaru** secara otomatis tanpa harus download ulang dari Play Store / App Store.
+1. Buka **Account** → **Pengaturan**
+2. Pada bagian **Notifikasi**:
 
-1. Buka **Account → Pengaturan**
+| Setting | Fungsi |
+|---|---|
+| **Push Notification** | Notifikasi dari aplikasi (approval, pengumuman) |
+| **Pengingat Clock In** | Notifikasi jadwal masuk |
+| **Pengingat Clock Out** | Notifikasi jadwal pulang |
+
+{% hint style="warning" %}
+Notifikasi juga harus diizinkan di **Pengaturan HP** agar bisa muncul.
+{% endhint %}
+
+{% endtab %}
+
+{% tab title="🔄 Auto Update OTA" %}
+
+Fitur ini memungkinkan aplikasi menerima **update fitur terbaru** tanpa download dari Play Store / App Store.
+
+1. Buka **Account** → **Pengaturan**
 2. Cari **Auto Update OTA**
-3. Aktifkan untuk update otomatis atau nonaktifkan jika ingin update manual
+3. Aktifkan / nonaktifkan sesuai preferensi
 
-## Tentang Aplikasi
+{% hint style="info" %}
+Saat diaktifkan, update akan di-download otomatis di background. Lihat [OTA Update](../../other/ota-update.md) untuk detail lengkap.
+{% endhint %}
+
+{% endtab %}
+
+{% tab title="ℹ️ Tentang Aplikasi" %}
 
 Di bagian **Tentang** (About), kamu bisa melihat:
-- Versi aplikasi saat ini
-- Status update OTA terbaru
-- Lisensi
+- **Versi aplikasi** saat ini
+- **Status update OTA** terbaru
+- **Lisensi** aplikasi
 
-***
+{% endtab %}
+{% endtabs %}
+
+---
 
 **Lanjut ke:** [Dashboard Home](../features/dashboard.md)

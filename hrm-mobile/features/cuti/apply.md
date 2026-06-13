@@ -6,15 +6,18 @@ icon: file-circle-plus
 
 # Mengajukan Cuti
 
-## Cara Mengajukan Cuti Baru
+{% tabs %}
+{% tab title="Form Pengajuan" %}
 
-![Tombol Ajukan Cuti](.assets/images/hrm-mobile/cuti/tombol-ajukan.png)
+### Cara Mengajukan Cuti Baru
+
+![Tombol Ajukan Cuti di pojok kanan atas halaman](https://placehold.co/600x400/1a1a2e/ffffff?text=tombol-ajukan)
 
 1. Buka halaman **Cuti** (dari dashboard tap icon 🏖️)
 2. Tap tombol **Ajukan Cuti** (biasanya di pojok kanan atas)
 3. Isi **Form Pengajuan Cuti**:
 
-![Form Cuti](.assets/images/hrm-mobile/cuti/form-cuti.png)
+![Form pengajuan cuti dengan field jenis, tanggal, alasan](https://placehold.co/600x1200/1a1a2e/ffffff?text=form-cuti)
 
 ### Detail Form
 
@@ -28,16 +31,30 @@ icon: file-circle-plus
 | **Catatan** | ❌ Tidak | Informasi tambahan (opsional) |
 | **Lampiran** | ❌ Tidak | Upload dokumen pendukung (foto/Surat Dokter, dll) |
 
-### Tips Pengisian
+{% endtab %}
+{% tab title="Tips Pengisian" %}
 
-- **Tanggal**: Gunakan date picker untuk memilih tanggal. Tanggal selesai harus setelah tanggal mulai.
-- **Durasi**: Akan terisi otomatis saat tanggal dipilih.
-- **Alasan**: Tulis dengan jelas dan profesional.
-- **Lampiran**: Untuk cuti sakit, lampirkan surat dokter. Format file: JPG, PNG, atau PDF.
+### Tips Pengisian Form
 
-## Setelah Mengajukan
+- **Tanggal**: Gunakan date picker untuk memilih tanggal. Tanggal selesai harus setelah tanggal mulai
+- **Durasi**: Akan terisi otomatis saat tanggal dipilih
+- **Alasan**: Tulis dengan jelas dan profesional
+- **Lampiran**: Untuk cuti sakit, lampirkan surat dokter. Format file: JPG, PNG, atau PDF
 
-![Konfirmasi Pengajuan](.assets/images/hrm-mobile/cuti/konfirmasi-pengajuan.png)
+{% hint style="warning" %}
+Ajukan cuti **minimal 3 hari sebelum** tanggal cuti untuk memberi waktu proses approval oleh atasan.
+{% endhint %}
+
+{% endtab %}
+{% tab title="Setelah Mengajukan" %}
+
+### Setelah Mengajukan
+
+![Konfirmasi pengajuan cuti berhasil dikirim](https://placehold.co/600x400/1a1a2e/ffffff?text=konfirmasi-pengajuan)
+
+{% hint style="success" %}
+Pengajuan cuti berhasil dikirim! Kamu akan mendapat notifikasi setelah disetujui atau ditolak oleh atasan.
+{% endhint %}
 
 1. Pengajuan masuk ke daftar **Pending**
 2. Approver (atasan langsung) akan menerima notifikasi
@@ -50,7 +67,8 @@ icon: file-circle-plus
 Ajukan Cuti → Pending → Approved ✅ / Rejected ❌
 ```
 
-> **Catatan:** Sebaiknya ajukan cuti **minimal 3 hari sebelum** tanggal cuti untuk memberi waktu approval.
+{% endtab %}
+{% endtabs %}
 
 ***
 

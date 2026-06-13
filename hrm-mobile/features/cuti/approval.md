@@ -10,7 +10,7 @@ Halaman ini khusus untuk **approver** (atasan / manager) yang bertugas menyetuju
 
 ## Melihat Pengajuan Cuti yang Perlu Di-approve
 
-![Tab Approval Cuti](.assets/images/hrm-mobile/cuti/tab-approval.png)
+![Tab Approval di halaman cuti — daftar pengajuan pending](https://placehold.co/600x400/1a1a2e/ffffff?text=tab-approval)
 
 1. Buka halaman **Cuti**
 2. Pilih tab **Approval** (biasanya tab terpisah dari "My Requests")
@@ -28,7 +28,7 @@ Setiap item menampilkan:
 
 Tap pada salah satu request untuk melihat detail lengkap:
 
-![Detail Approval Cuti](.assets/images/hrm-mobile/cuti/detail-approval.png)
+![Detail approval — informasi cuti, lampiran, dan tombol setujui/tolak](https://placehold.co/600x1200/1a1a2e/ffffff?text=detail-approval)
 
 Detail meliputi:
 - Informasi lengkap cuti
@@ -36,25 +36,36 @@ Detail meliputi:
 - Lampiran (jika ada)
 - Tombol **Setujui** (Approve) dan **Tolak** (Reject)
 
-## Menyetujui Cuti
+{% tabs %}
+{% tab title="Menyetujui Cuti" %}
+
+### Cara Menyetujui
 
 1. Tap **Setujui** (Approve)
 2. (Opsional) Tambahkan **catatan** untuk pengaju
 3. Konfirmasi
 
-## Menolak Cuti
+{% endtab %}
+{% tab title="Menolak Cuti" %}
+
+### Cara Menolak
 
 1. Tap **Tolak** (Reject)
 2. Tulis **alasan penolakan** (wajib)
 3. Konfirmasi
 
-> **Best Practice:** Berikan alasan jelas jika menolak, agar karyawan bisa mengajukan ulang dengan perbaikan.
+{% hint style="info" %}
+**Best Practice:** Berikan alasan jelas jika menolak, agar karyawan bisa mengajukan ulang dengan perbaikan.
+{% endhint %}
+
+{% endtab %}
+{% endtabs %}
 
 ## Notifikasi
 
-Setelah kamu melakukan approve/reject:
-- Pengaju mendapat **notifikasi push** hasil pengajuan
-- Status berubah di daftar pengajuan pengaju
+{% hint style="info" %}
+Setelah kamu melakukan approve/reject, pengaju akan langsung mendapat **notifikasi push** hasil pengajuan. Status juga otomatis berubah di daftar pengajuan pengaju.
+{% endhint %}
 
 ***
 

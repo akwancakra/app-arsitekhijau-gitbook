@@ -13,7 +13,10 @@ Halaman **Edit Profile** memungkinkan kamu mengubah foto profil dan melihat data
 1. Buka tab **Account** (icon orang di pojok kanan bawah)
 2. Tap **Edit Profile** (icon pensil di samping foto profil)
 
-![Edit Profile](.assets/images/hrm-mobile/account/edit-profile.png)
+![Edit Profile](https://placehold.co/600x400/1a1a2e/ffffff?text=edit-profile)
+
+{% tabs %}
+{% tab title="Foto Profil" %}
 
 ### Mengganti Foto Profil
 
@@ -24,13 +27,20 @@ Halaman **Edit Profile** memungkinkan kamu mengubah foto profil dan melihat data
 3. Atur posisi foto (crop & zoom)
 4. Tap **Simpan**
 
+{% endtab %}
+{% tab title="Data Pribadi" %}
+
 ### Data yang Bisa Diubah
 
 - **Nama lengkap** (jika diizinkan HR)
 - **Nomor telepon**
 - **Email** (beberapa kasus perlu approval HR)
 
-> **Catatan:** Untuk perubahan data lain (alamat, status, keluarga, dll), gunakan **Profile Change Request**.
+{% hint style="info" %}
+Perubahan data tertentu seperti alamat, status pernikahan, atau data keluarga membutuhkan **Profile Change Request** yang akan di-approve oleh HR.
+{% endhint %}
+
+{% endtabs %}
 
 ## Informasi Pribadi
 

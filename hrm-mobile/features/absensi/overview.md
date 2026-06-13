@@ -8,15 +8,19 @@ icon: calendar-check
 
 Modul **Absensi** adalah fitur utama HRM Mobile untuk mencatat kehadiran harian kamu. Fitur ini mencakup clock in/out dengan verifikasi lokasi GPS dan foto selfie.
 
+{% hint style="info" %}
+Jam kerja normal menyesuaikan dengan jadwal shift masing-masing karyawan. Pastikan kamu mengetahui jadwal shift sebelum melakukan absensi.
+{% endhint %}
+
 ## Fitur yang Tersedia
 
-| Fitur | Deskripsi |
-|---|---|
-| **Clock In** | Mencatat jam masuk kerja dengan lokasi & foto |
-| **Clock Out** | Mencatat jam pulang kerja |
-| **Today Status** | Ringkasan absensi hari ini |
-| **Riwayat Absensi** | Daftar record absensi harian |
-| **Koreksi Absensi** | Perbaiki absensi yang salah atau lupa absen |
+{% table data-view="cards" %}
+| Sub-page | Deskripsi |
+| --- | --- |
+| **Clock In / Clock Out** | Mencatat jam masuk dan pulang kerja dengan verifikasi GPS & foto selfie |
+| **Riwayat Absensi** | Daftar record absensi harian lengkap dengan detail jam dan status |
+| **Koreksi Absensi** | Perbaiki absensi yang salah atau lupa absen — same day & past day |
+{% /table %}
 
 ## Alur Absensi Harian
 
@@ -25,8 +29,6 @@ Clock In (pagi) → Aktivitas Kerja → Clock Out (sore)
      │                                         │
      └── GPS + Selfie                          └── GPS + Selfie
 ```
-
-> **Jam kerja normal:** Disesuaikan dengan jadwal shift masing-masing karyawan.
 
 ## Status Absensi
 
@@ -49,7 +51,7 @@ Untuk melakukan absensi, pastikan:
 3. **Izin kamera** sudah diberikan
 4. Berada di **lokasi kerja** yang terdaftar
 
-![Akses Cepat Absensi dari Dashboard](.assets/images/hrm-mobile/absensi/akses-cepat.png)
+![Akses cepat ke menu absensi dari halaman dashboard utama](https://placehold.co/600x400/1a1a2e/ffffff?text=akses-cepat)
 
 ***
 

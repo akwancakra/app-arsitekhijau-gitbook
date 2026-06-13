@@ -8,6 +8,20 @@ icon: beach-umbrella
 
 Modul **Cuti** memungkinkan kamu mengelola semua kebutuhan cuti, mulai dari cek saldo, mengajukan cuti baru, hingga menyetujui cuti bawahan (jika kamu approver).
 
+{% hint style="success" %}
+Tersedia berbagai jenis cuti: Cuti Tahunan, Cuti Sakit, Cuti Menikah, Cuti Keluarga Meninggal, Cuti Haji/Umroh, dan Cuti Tidak Dibayar.
+{% endhint %}
+
+## Fitur yang Tersedia
+
+{% table data-view="cards" %}
+| Fitur | Deskripsi |
+| --- | --- |
+| **Saldo Cuti** | Melihat sisa jatah cuti per jenis lengkap dengan progress bar |
+| **Mengajukan Cuti** | Membuat pengajuan cuti baru dengan form lengkap |
+| **Approval Cuti** | (Khusus approver) Setujui atau tolak pengajuan cuti bawahan |
+{% /table %}
+
 ## Jenis Cuti
 
 | Jenis Cuti | Keterangan |
@@ -18,15 +32,6 @@ Modul **Cuti** memungkinkan kamu mengelola semua kebutuhan cuti, mulai dari cek 
 | **Cuti Keluarga Meninggal** (Bereavement) | Anggota keluarga inti meninggal |
 | **Cuti Haji/Umroh** (Hajj) | Ibadah haji atau umroh |
 | **Cuti Tidak Dibayar** (Unpaid) | Cuti di luar tanggungan perusahaan |
-
-## Fitur yang Tersedia
-
-| Fitur | Deskripsi |
-|---|---|
-| **Saldo Cuti** | Melihat sisa cuti per jenis |
-| **Pengajuan Cuti** | Membuat request cuti baru |
-| **Riwayat Cuti** | Daftar pengajuan cuti (pending/approved/rejected) |
-| **Approval Cuti** | (Khusus approver) Setujui/tolak cuti bawahan |
 
 ***
 

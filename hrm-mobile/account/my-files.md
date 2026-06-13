@@ -14,7 +14,7 @@ Fitur **My Files** menampilkan dokumen-dokumen pribadi kamu yang tersimpan di si
 2. Scroll ke bawah ke section **Informasi**
 3. Tap **My Files**
 
-![My Files](.assets/images/hrm-mobile/account/my-files.png)
+![My Files](https://placehold.co/600x1200/1a1a2e/ffffff?text=my-files)
 
 ## Dokumen yang Ditampilkan
 
@@ -28,11 +28,17 @@ Fitur **My Files** menampilkan dokumen-dokumen pribadi kamu yang tersimpan di si
 
 ## Fungsi
 
-- **Lihat** — tap untuk melihat dokumen
-- **Download** — simpan dokumen ke perangkat
-- Dokumen bersifat **read-only** (tidak bisa diubah dari sini)
+{% details title="Lihat Dokumen" %}
+Tap pada dokumen yang ingin dilihat. Dokumen akan terbuka di viewer bawaan aplikasi.
+{% enddetails %}
 
-> **Catatan:** Untuk mengupdate dokumen, hubungi HR langsung atau gunakan Profile Change Request dengan lampiran dokumen baru.
+{% details title="Download Dokumen" %}
+Tap icon download untuk menyimpan dokumen ke perangkat kamu.
+{% enddetails %}
+
+{% hint style="info" %}
+Dokumen bersifat **read-only** — tidak bisa diubah dari sini. Hubungi HR atau gunakan **Profile Change Request** dengan lampiran dokumen baru untuk mengupdate dokumen.
+{% endhint %}
 
 ***
 
