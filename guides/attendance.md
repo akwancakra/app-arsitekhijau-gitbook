@@ -1,6 +1,0 @@
----
-icon: cards-blank
----
-
-# Attendance
-
