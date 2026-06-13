@@ -73,7 +73,7 @@ Jika lupa PIN, kamu harus verifikasi dengan **password akun** sebelum bisa membu
 
 ***
 
-## 🫵 Biometric Unlock
+## Biometric Unlock
 
 Jika HP kamu mendukung **fingerprint** atau **FaceID**, kamu bisa menggunakannya sebagai alternatif PIN.
 

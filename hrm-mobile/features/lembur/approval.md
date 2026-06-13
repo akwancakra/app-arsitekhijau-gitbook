@@ -1,7 +1,6 @@
 ---
-description: >-
-  Panduan untuk approver dalam menyetujui atau menolak pengajuan lembur.
-icon: check-circle
+description: Panduan untuk approver dalam menyetujui atau menolak pengajuan lembur.
+icon: clipboard-check
 ---
 
 # Approval Lembur
@@ -17,11 +16,12 @@ Halaman ini khusus untuk **approver** (atasan / manager) yang bertugas menyetuju
 ![Daftar pengajuan lembur yang menunggu approval](https://placehold.co/600x1200/1a1a2e/ffffff?text=daftar-approval)
 
 Setiap item menampilkan:
-- Nama pengaju
-- Tipe lembur
-- Tanggal & jam
-- Alasan
-- Durasi
+
+* Nama pengaju
+* Tipe lembur
+* Tanggal & jam
+* Alasan
+* Durasi
 
 ## Detail & Approval
 
@@ -31,26 +31,22 @@ Tap pada request untuk melihat detail:
 
 {% tabs %}
 {% tab title="Menyetujui Lembur" %}
-
 ### Cara Menyetujui
 
 1. Tap **Setujui** (Approve)
 2. (Opsional) Tambahkan catatan
 3. Konfirmasi
-
 {% endtab %}
-{% tab title="Menolak Lembur" %}
 
+{% tab title="Menolak Lembur" %}
 ### Cara Menolak
 
 1. Tap **Tolak** (Reject)
 2. Tulis **alasan penolakan** (wajib)
 3. Konfirmasi
-
 {% endtab %}
 {% endtabs %}
 
 Pengaju akan mendapat notifikasi hasil approval.
 
 ***
-
