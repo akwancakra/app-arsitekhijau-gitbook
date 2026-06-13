@@ -37,7 +37,7 @@ Tap icon download untuk menyimpan dokumen ke perangkat kamu.
 {% enddetails %}
 
 {% hint style="info" %}
-Dokumen bersifat **read-only** — tidak bisa diubah dari sini. Hubungi HR atau gunakan **Profile Change Request** dengan lampiran dokumen baru untuk mengupdate dokumen.
+Dokumen bersifat **read-only**: tidak bisa diubah dari sini. Hubungi HR atau gunakan **Profile Change Request** dengan lampiran dokumen baru untuk mengupdate dokumen.
 {% endhint %}
 
 ***

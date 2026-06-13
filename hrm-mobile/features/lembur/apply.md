@@ -15,7 +15,7 @@ icon: file-circle-plus
 2. Tap tombol **Ajukan Lembur** (pojok kanan atas)
 3. Isi **Form Pengajuan Lembur**:
 
-![Form pengajuan lembur — tipe, tanggal, jam, dan alasan](https://placehold.co/600x1200/1a1a2e/ffffff?text=form-lembur)
+![Form pengajuan lembur: tipe, tanggal, jam, dan alasan](https://placehold.co/600x1200/1a1a2e/ffffff?text=form-lembur)
 
 ### Detail Form
 

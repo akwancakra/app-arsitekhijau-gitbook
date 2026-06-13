@@ -1,12 +1,12 @@
 ---
 description: >-
-  Dokumentasi resmi aplikasi HRM Mobile Arsitek Hijau — panduan lengkap penggunaan semua fitur untuk karyawan.
+  Dokumentasi resmi aplikasi HRM Mobile Arsitek Hijau: panduan lengkap penggunaan semua fitur untuk karyawan.
 icon: hand-wave
 ---
 
 # HRM Mobile Arsitek Hijau
 
-Selamat datang di **HRM Mobile Arsitek Hijau** — aplikasi mobile HR terpadu untuk seluruh karyawan. Dokumentasi ini mencakup panduan lengkap dari instalasi hingga penggunaan semua fitur.
+Selamat datang di **HRM Mobile Arsitek Hijau**: aplikasi mobile HR terpadu untuk seluruh karyawan. Dokumentasi ini mencakup panduan lengkap dari instalasi hingga penggunaan semua fitur.
 
 {% hint style="success" icon="sparkles" %}
 **Baru diperbarui!** Seluruh modul HRM Mobile sudah terdokumentasi: Absensi, Cuti, Lembur, Shift, Tugas, Slip Gaji, SOP, Pengumuman, Aset, Kalendar, Organisasi, Profile Change, Notifikasi, hingga Keamanan Akun.

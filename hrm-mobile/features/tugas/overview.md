@@ -1,6 +1,6 @@
 ---
 description: >-
-  Manajemen tugas — melihat dan mengelola tugas pekerjaan.
+  Manajemen tugas: melihat dan mengelola tugas pekerjaan.
 icon: list-check
 ---
 
@@ -13,25 +13,25 @@ Modul **Tugas** (Tasks) menampilkan daftar tugas yang perlu kamu kerjakan. Tugas
 {% tabs %}
 {% tab title="📋 Pending" %}
 {% hint style="info" %}
-**Pending** — Tugas baru, belum dikerjakan. Segera tentukan prioritas dan mulai pengerjaan.
+**Pending**: Tugas baru, belum dikerjakan. Segera tentukan prioritas dan mulai pengerjaan.
 {% endhint %}
 {% endtab %}
 
 {% tab title="⚙️ In Progress" %}
 {% hint style="warning" %}
-**In Progress** — Sedang dikerjakan. Pastikan untuk mengikuti deadline yang ditentukan.
+**In Progress**: Sedang dikerjakan. Pastikan untuk mengikuti deadline yang ditentukan.
 {% endhint %}
 {% endtab %}
 
 {% tab title="🔍 In Review" %}
 {% hint style="info" %}
-**In Review** — Selesai dikerjakan, menunggu review dari atasan atau project manager.
+**In Review**: Selesai dikerjakan, menunggu review dari atasan atau project manager.
 {% endhint %}
 {% endtab %}
 
 {% tab title="✅ Done" %}
 {% hint style="success" %}
-**Done** — Selesai dan sudah direview. Tugas telah disetujui.
+**Done**: Selesai dan sudah direview. Tugas telah disetujui.
 {% endhint %}
 {% endtab %}
 {% endtabs %}

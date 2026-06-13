@@ -1,12 +1,12 @@
 ---
 description: >-
-  Panduan screen pertama setelah login — pengaturan awal aplikasi.
+  Panduan screen pertama setelah login: pengaturan awal aplikasi.
 icon: wand-magic-sparkles
 ---
 
 # Onboarding (Pengaturan Awal)
 
-Setelah **pertama kali login**, kamu akan melalui proses onboarding 3 langkah. Ini hanya muncul sekali — setelah selesai, langsung masuk dashboard.
+Setelah **pertama kali login**, kamu akan melalui proses onboarding 3 langkah. Ini hanya muncul sekali: setelah selesai, langsung masuk dashboard.
 
 {% tabs %}
 {% tab title="Langkah 1: Welcome" %}
@@ -63,7 +63,7 @@ Setelah 3 langkah selesai, kamu langsung masuk ke **Dashboard Home** dan siap me
 
 ## Melewati Onboarding
 
-Jika kamu logout dan login lagi, onboarding **tidak akan muncul lagi** — hanya sekali saat pertama kali.
+Jika kamu logout dan login lagi, onboarding **tidak akan muncul lagi**: hanya sekali saat pertama kali.
 
 {% details title="Ingin melihat onboarding lagi?" %}
 Fitur reset onboarding tidak tersedia dari aplikasi. Hubungi IT support jika perlu mereset status onboarding.

@@ -19,7 +19,7 @@ icon: circle-question
 </details>
 
 <details>
-<summary><b>Gagal login — "Email atau password salah"</b></summary>
+<summary><b>Gagal login: "Email atau password salah"</b></summary>
 
 - Pastikan email menggunakan domain perusahaan (`@arsitekhijau.com`)
 - Cek apakah **caps lock** tidak aktif
@@ -49,9 +49,9 @@ Gunakan fitur **Koreksi Absensi → Past Day Correction**:
 </details>
 
 <details>
-<summary><b>Lupa clock out — gaji dipotong?</b></summary>
+<summary><b>Lupa clock out: gaji dipotong?</b></summary>
 
-Segera ajukan **Koreksi Absensi → Past Day Correction** tipe **Lupa Clock Out**. Selama belum dikoreksi, sistem menghitung durasi tidak lengkap — potensi pemotongan ada sampai dikoreksi dan di-approve.
+Segera ajukan **Koreksi Absensi → Past Day Correction** tipe **Lupa Clock Out**. Selama belum dikoreksi, sistem menghitung durasi tidak lengkap: potensi pemotongan ada sampai dikoreksi dan di-approve.
 </details>
 
 <details>
@@ -76,7 +76,7 @@ Pastikan berada di **area kantor yang terdaftar** di sistem. Jika lokasi benar t
 <details>
 <summary><b>Saldo cuti tidak muncul / tidak sesuai</b></summary>
 
-Saldo cuti dikelola oleh **HR Department**. Hubungi HR jika ada ketidaksesuaian — data saldo di aplikasi langsung mengambil dari database HR.
+Saldo cuti dikelola oleh **HR Department**. Hubungi HR jika ada ketidaksesuaian: data saldo di aplikasi langsung mengambil dari database HR.
 </details>
 
 <details>
@@ -140,10 +140,10 @@ Cek tiga hal ini:
 <details>
 <summary><b>Aplikasi force close / crash</b></summary>
 
-1. **Restart HP** — matikan dan nyalakan kembali
-2. **Update aplikasi** — cek Play Store / App Store untuk versi terbaru
-3. **Clear data** — jika masih crash: Pengaturan HP → Aplikasi → HRM → Clear Data (perlu login ulang)
-4. **Lapor IT** — jika semua gagal, hubungi IT dengan screenshot error, tipe HP & OS
+1. **Restart HP**: matikan dan nyalakan kembali
+2. **Update aplikasi**: cek Play Store / App Store untuk versi terbaru
+3. **Clear data**: jika masih crash: Pengaturan HP → Aplikasi → HRM → Clear Data (perlu login ulang)
+4. **Lapor IT**: jika semua gagal, hubungi IT dengan screenshot error, tipe HP & OS
 </details>
 
 <details>
@@ -164,7 +164,7 @@ Buka **Play Store** (Android) atau **App Store** (iOS), cari **"HRM Arsitek Hija
 2. **Memblokir akses** akun dari perangkat tersebut
 3. Setup ulang di HP baru
 
-> 🚨 Jangan tunda — semakin cepat dilaporkan, semakin aman data kamu.
+> 🚨 Jangan tunda: semakin cepat dilaporkan, semakin aman data kamu.
 </details>
 
 <details>

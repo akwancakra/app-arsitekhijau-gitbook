@@ -1,6 +1,6 @@
 ---
 description: >-
-  Mengajukan cuti baru melalui aplikasi — panduan langkah demi langkah.
+  Mengajukan cuti baru melalui aplikasi: panduan langkah demi langkah.
 icon: file-circle-plus
 ---
 
@@ -24,9 +24,9 @@ Lengkapi form dengan data berikut:
 |---|---|---|
 | **Jenis Cuti** | ✅ Ya | Pilih: Tahunan, Sakit, Menikah, Keluarga Meninggal, Haji, Tidak Dibayar |
 | **Tanggal Mulai** | ✅ Ya | Gunakan date picker |
-| **Tanggal Selesai** | ✅ Ya | Harus setelah tanggal mulai — durasi terisi otomatis |
+| **Tanggal Selesai** | ✅ Ya | Harus setelah tanggal mulai: durasi terisi otomatis |
 | **Alasan** | ✅ Ya | Tulis alasan dengan jelas dan profesional |
-| **Lampiran** | ❌ Tidak | Upload surat dokter (sakit), undangan (menikah), dll — JPG/PNG/PDF |
+| **Lampiran** | ❌ Tidak | Upload surat dokter (sakit), undangan (menikah), dll: JPG/PNG/PDF |
 
 {% hint style="warning" %}
 Ajukan cuti **minimal 3 hari sebelum** tanggal mulai agar approver punya waktu memproses.
@@ -35,7 +35,7 @@ Ajukan cuti **minimal 3 hari sebelum** tanggal mulai agar approver punya waktu m
 
 {% step %}
 ### Kirim & Tunggu Approval
-Tap **Kirim** — pengajuan masuk ke status **Pending**. Atasan akan menerima notifikasi dan menyetujui/menolak.
+Tap **Kirim**: pengajuan masuk ke status **Pending**. Atasan akan menerima notifikasi dan menyetujui/menolak.
 
 ![Konfirmasi pengajuan terkirim](https://placehold.co/600x400/1a1a2e/ffffff?text=konfirmasi-pengajuan)
 {% endstep %}

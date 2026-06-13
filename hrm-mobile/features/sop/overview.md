@@ -9,7 +9,7 @@ icon: book
 Modul **SOP** menyediakan akses ke dokumen **Standard Operating Procedures** perusahaan. Kamu bisa membaca dan mempelajari prosedur kerja yang berlaku.
 
 {% hint style="info" %}
-**Update Berkala** — Dokumen SOP diperbarui secara berkala sesuai dengan kebijakan perusahaan. Selalu cek versi terbaru untuk memastikan kamu mengikuti prosedur yang paling mutakhir.
+**Update Berkala**: Dokumen SOP diperbarui secara berkala sesuai dengan kebijakan perusahaan. Selalu cek versi terbaru untuk memastikan kamu mengikuti prosedur yang paling mutakhir.
 {% endhint %}
 
 ## Cara Melihat SOP
@@ -36,7 +36,7 @@ Tap pada dokumen untuk membaca isi lengkap:
 ## Pencarian
 
 {% hint style="info" %}
-**🔍 Cari Cepat** — Gunakan **search bar** di bagian atas untuk mencari SOP berdasarkan judul atau kata kunci tertentu.
+**🔍 Cari Cepat**: Gunakan **search bar** di bagian atas untuk mencari SOP berdasarkan judul atau kata kunci tertentu.
 {% endhint %}
 
 | Kegunaan | Cara |

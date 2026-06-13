@@ -1,6 +1,6 @@
 ---
 description: >-
-  Panduan menggunakan fitur tugas — melihat, memfilter, dan mengelola.
+  Panduan menggunakan fitur tugas: melihat, memfilter, dan mengelola.
 icon: list-check
 ---
 
@@ -12,7 +12,7 @@ icon: list-check
 2. Daftar tugas tampil dengan **infinite scroll** (scroll untuk muat lebih banyak)
 
 {% hint style="info" %}
-**Infinite Scroll** — Daftar tugas akan terus memuat data saat kamu scroll ke bawah. Tidak perlu tap tombol "Load More".
+**Infinite Scroll**: Daftar tugas akan terus memuat data saat kamu scroll ke bawah. Tidak perlu tap tombol "Load More".
 {% endhint %}
 
 ![Daftar Tugas](https://placehold.co/600x1200/1a1a2e/ffffff?text=daftar-tugas)

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Kalendar kerja — hari libur, jadwal, dan cuti bersama.
+  Kalendar kerja: hari libur, jadwal, dan cuti bersama.
 icon: calendar-days
 ---
 
@@ -9,7 +9,7 @@ icon: calendar-days
 Modul **Kalendar** (Calendar) menampilkan hari-hari penting seperti libur nasional, cuti bersama, dan jadwal kerja.
 
 {% hint style="info" %}
-**Read-Only** — Kalendar bersifat hanya-lihat. Kamu tidak bisa menambahkan atau mengubah event sendiri.
+**Read-Only**: Kalendar bersifat hanya-lihat. Kamu tidak bisa menambahkan atau mengubah event sendiri.
 {% endhint %}
 
 ## Cara Melihat
@@ -36,9 +36,9 @@ Tap pada tanggal tertentu untuk melihat event di hari itu:
 ![Detail Event](https://placehold.co/600x1200/1a1a2e/ffffff?text=detail-event)
 
 Menampilkan:
-- **Nama Event** — Nama hari libur atau keterangan jadwal
-- **Tanggal** — Tanggal pelaksanaan
-- **Tipe Event** — Kategori (Libur Nasional, Cuti Bersama, dll)
+- **Nama Event**: Nama hari libur atau keterangan jadwal
+- **Tanggal**: Tanggal pelaksanaan
+- **Tipe Event**: Kategori (Libur Nasional, Cuti Bersama, dll)
 {% enddetails %}
 
 ***

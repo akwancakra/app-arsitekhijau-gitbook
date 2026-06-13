@@ -1,12 +1,12 @@
 ---
 description: >-
-  Halaman utama aplikasi — ringkasan aktivitas dan akses cepat ke fitur-fitur penting.
+  Halaman utama aplikasi: ringkasan aktivitas dan akses cepat ke fitur-fitur penting.
 icon: house
 ---
 
 # Dashboard Home
 
-Dashboard Home adalah halaman pertama setelah login — pusat kendali semua aktivitas HR kamu.
+Dashboard Home adalah halaman pertama setelah login: pusat kendali semua aktivitas HR kamu.
 
 ![Tampilan lengkap Dashboard Home](https://placehold.co/600x1200/1a1a2e/ffffff?text=dashboard-home)
 
@@ -76,10 +76,10 @@ Grid icon untuk akses cepat ke fitur pribadi:
 Section ini **hanya muncul** jika kamu adalah **approver** (atasan/manager).
 {% endhint %}
 
-- **Approval Cuti** — Setujui/tolak cuti bawahan
-- **Approval Lembur** — Setujui/tolak lembur
-- **Approval Absensi** — Setujui/tolak koreksi absensi
-- **Approval Shift** — Setujui/tolak perubahan shift
+- **Approval Cuti**: Setujui/tolak cuti bawahan
+- **Approval Lembur**: Setujui/tolak lembur
+- **Approval Absensi**: Setujui/tolak koreksi absensi
+- **Approval Shift**: Setujui/tolak perubahan shift
 - **Profile Change Approval**
 
 ---
@@ -96,7 +96,7 @@ Tap untuk lihat detail lengkap.
 
 ### 7. Latest Announcement
 
-Card pengumuman **terbaru** dari HR/Management — dengan badge **NEW** jika belum dibaca.
+Card pengumuman **terbaru** dari HR/Management: dengan badge **NEW** jika belum dibaca.
 
 ---
 

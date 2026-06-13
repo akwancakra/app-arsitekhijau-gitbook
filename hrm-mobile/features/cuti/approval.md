@@ -10,7 +10,7 @@ Halaman ini khusus untuk **approver** (atasan / manager) yang bertugas menyetuju
 
 ## Melihat Pengajuan Cuti yang Perlu Di-approve
 
-![Tab Approval di halaman cuti — daftar pengajuan pending](https://placehold.co/600x400/1a1a2e/ffffff?text=tab-approval)
+![Tab Approval di halaman cuti: daftar pengajuan pending](https://placehold.co/600x400/1a1a2e/ffffff?text=tab-approval)
 
 1. Buka halaman **Cuti**
 2. Pilih tab **Approval** (biasanya tab terpisah dari "My Requests")
@@ -28,7 +28,7 @@ Setiap item menampilkan:
 
 Tap pada salah satu request untuk melihat detail lengkap:
 
-![Detail approval — informasi cuti, lampiran, dan tombol setujui/tolak](https://placehold.co/600x1200/1a1a2e/ffffff?text=detail-approval)
+![Detail approval: informasi cuti, lampiran, dan tombol setujui/tolak](https://placehold.co/600x1200/1a1a2e/ffffff?text=detail-approval)
 
 Detail meliputi:
 - Informasi lengkap cuti

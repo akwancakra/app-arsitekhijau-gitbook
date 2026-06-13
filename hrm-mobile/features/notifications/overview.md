@@ -9,7 +9,7 @@ icon: bell
 Modul **Notifikasi** menampilkan semua pemberitahuan dari aplikasi, baik dari sistem, approval, pengumuman, maupun pengingat.
 
 {% hint style="info" %}
-**Badge Unread** — Jumlah notifikasi **belum dibaca** ditampilkan sebagai badge merah di icon bell pada Dashboard. Segera cek notifikasi baru agar tidak ketinggalan informasi penting.
+**Badge Unread**: Jumlah notifikasi **belum dibaca** ditampilkan sebagai badge merah di icon bell pada Dashboard. Segera cek notifikasi baru agar tidak ketinggalan informasi penting.
 {% endhint %}
 
 ## Jenis Notifikasi
@@ -17,28 +17,28 @@ Modul **Notifikasi** menampilkan semua pemberitahuan dari aplikasi, baik dari si
 {% tabs %}
 {% tab title="✅ Approval" %}
 {% hint style="success" %}
-**Approval** — Pemberitahuan terkait persetujuan cuti, lembur, koreksi absensi, dan perubahan data profil.
+**Approval**: Pemberitahuan terkait persetujuan cuti, lembur, koreksi absensi, dan perubahan data profil.
 {% endhint %}
 Contoh: "Cuti disetujui", "Lembur di-approve"
 {% endtab %}
 
 {% tab title="📢 Pengumuman" %}
 {% hint style="info" %}
-**Pengumuman** — Informasi resmi terbaru dari HR atau Manajemen perusahaan.
+**Pengumuman**: Informasi resmi terbaru dari HR atau Manajemen perusahaan.
 {% endhint %}
 Contoh: "Pengumuman baru: Kebijakan WFH"
 {% endtab %}
 
 {% tab title="⏰ Pengingat" %}
 {% hint style="warning" %}
-**Pengingat** — Alarm untuk melakukan clock in / clock out atau tugas yang harus segera dikerjakan.
+**Pengingat**: Alarm untuk melakukan clock in / clock out atau tugas yang harus segera dikerjakan.
 {% endhint %}
 Contoh: "Waktunya clock in!", "Deadline tugas hari ini"
 {% endtab %}
 
 {% tab title="⚙️ Sistem" %}
 {% hint style="info" %}
-**Sistem** — Informasi teknis seperti update aplikasi, pemeliharaan, atau notifikasi penting lainnya.
+**Sistem**: Informasi teknis seperti update aplikasi, pemeliharaan, atau notifikasi penting lainnya.
 {% endhint %}
 Contoh: "Update aplikasi versi 2.0 tersedia"
 {% endtab %}
@@ -63,7 +63,7 @@ Contoh: "Update aplikasi versi 2.0 tersedia"
 ## Tap to Navigate
 
 {% hint style="success" %}
-**Tap to Navigate** — Fitur unggulan: tap pada notifikasi akan langsung membawa kamu ke halaman yang relevan. Tidak perlu mencari menu manual!
+**Tap to Navigate**: Fitur unggulan: tap pada notifikasi akan langsung membawa kamu ke halaman yang relevan. Tidak perlu mencari menu manual!
 {% endhint %}
 
 | Notifikasi | Tujuan |

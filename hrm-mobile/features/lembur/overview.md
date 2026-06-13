@@ -1,6 +1,6 @@
 ---
 description: >-
-  Pengelolaan lembur — pengajuan dan approval lembur karyawan.
+  Pengelolaan lembur: pengajuan dan approval lembur karyawan.
 icon: clock
 ---
 

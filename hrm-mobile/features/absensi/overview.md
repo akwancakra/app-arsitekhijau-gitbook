@@ -1,6 +1,6 @@
 ---
 description: >-
-  Pengelolaan absensi harian — clock in, clock out, riwayat, dan koreksi.
+  Pengelolaan absensi harian: clock in, clock out, riwayat, dan koreksi.
 icon: calendar-check
 ---
 
@@ -19,7 +19,7 @@ Jam kerja normal menyesuaikan dengan jadwal shift masing-masing karyawan. Pastik
 | --- | --- |
 | **Clock In / Clock Out** | Mencatat jam masuk dan pulang kerja dengan verifikasi GPS & foto selfie |
 | **Riwayat Absensi** | Daftar record absensi harian lengkap dengan detail jam dan status |
-| **Koreksi Absensi** | Perbaiki absensi yang salah atau lupa absen — same day & past day |
+| **Koreksi Absensi** | Perbaiki absensi yang salah atau lupa absen: same day & past day |
 {% /table %}
 
 ## Alur Absensi Harian

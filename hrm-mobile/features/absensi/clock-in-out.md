@@ -23,7 +23,7 @@ Buka aplikasi HRM Mobile, di **Dashboard Home** tap tombol **Clock In** (ikon hi
 ### Tunggu Deteksi Lokasi
 Sistem akan **mendeteksi lokasi GPS** kamu secara otomatis. Pastikan GPS HP aktif.
 
-![Modal Clock In — deteksi lokasi dan kamera](https://placehold.co/600x400/1a1a2e/ffffff?text=modal-clock-in)
+![Modal Clock In: deteksi lokasi dan kamera](https://placehold.co/600x400/1a1a2e/ffffff?text=modal-clock-in)
 {% endstep %}
 
 {% step %}
@@ -77,7 +77,7 @@ Sistem mendeteksi lokasi GPS, lalu ambil **foto selfie**.
 ## Tips & Troubleshooting
 
 <details>
-<summary><b>GPS Error</b> — GPS tidak mendeteksi lokasi</summary>
+<summary><b>GPS Error</b>: GPS tidak mendeteksi lokasi</summary>
 
 1. Pastikan **GPS/Lokasi** HP aktif
 2. Coba ke **luar ruangan** agar sinyal kuat
@@ -85,28 +85,28 @@ Sistem mendeteksi lokasi GPS, lalu ambil **foto selfie**.
 </details>
 
 <details>
-<summary><b>Foto Gagal</b> — Kamera tidak bisa mengambil foto</summary>
+<summary><b>Foto Gagal</b>: Kamera tidak bisa mengambil foto</summary>
 
 - Periksa **izin kamera** di Pengaturan HP → Aplikasi → HRM → Kamera → **Izinkan**
 - Restart aplikasi
 </details>
 
 <details>
-<summary><b>Tombol Clock Tidak Muncul</b> — Tombol tidak terlihat di dashboard</summary>
+<summary><b>Tombol Clock Tidak Muncul</b>: Tombol tidak terlihat di dashboard</summary>
 
 - Pastikan **sudah login** dan **koneksi internet** stabil
 - Tarik layar ke bawah untuk **refresh** dashboard
 </details>
 
 <details>
-<summary><b>Lokasi Tidak Sesuai</b> — Terdeteksi di luar area kerja</summary>
+<summary><b>Lokasi Tidak Sesuai</b>: Terdeteksi di luar area kerja</summary>
 
 - Pastikan kamu berada di **area kantor yang terdaftar**
 - Jika lokasi benar tapi masih error, hubungi IT
 </details>
 
 <details>
-<summary><b>Lupa Clock Out</b> — Sudah clock in tapi lupa clock out</summary>
+<summary><b>Lupa Clock Out</b>: Sudah clock in tapi lupa clock out</summary>
 
 Gunakan fitur **Koreksi Absensi → Past Day Correction**. Pilih tipe **Lupa Clock Out** dan isi waktu pulang yang benar.
 </details>

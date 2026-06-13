@@ -21,7 +21,7 @@ Jika **Auto Update** diaktifkan di Pengaturan:
 - Aplikasi akan **mengecek update** secara periodik
 - Saat update tersedia, akan **di-download di background**
 - Saat sudah siap, aplikasi akan **restart** dengan versi baru
-- Proses **transparan** — kamu tidak perlu melakukan apa-apa
+- Proses **transparan**: kamu tidak perlu melakukan apa-apa
 
 {% endtab %}
 {% tab title="Manual Update" %}
@@ -44,7 +44,7 @@ Jika **Auto Update** diaktifkan di Pengaturan:
 ## Mandatory APK Update
 
 {% hint style="danger" %}
-**Mandatory update bersifat WAJIB** — kamu harus meng-install-nya untuk bisa terus menggunakan aplikasi. Biasanya menyangkut perubahan versi major atau perbaikan keamanan kritis.
+**Mandatory update bersifat WAJIB**: kamu harus meng-install-nya untuk bisa terus menggunakan aplikasi. Biasanya menyangkut perubahan versi major atau perbaikan keamanan kritis.
 {% endhint %}
 
 Jika ada update **wajib**, aplikasi akan menampilkan layar penuh:

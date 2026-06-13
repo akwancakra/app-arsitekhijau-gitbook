@@ -1,6 +1,6 @@
 ---
 description: >-
-  Mengenal aplikasi HRM Mobile Arsitek Hijau — fitur, manfaat, dan yang bisa kamu lakukan.
+  Mengenal aplikasi HRM Mobile Arsitek Hijau: fitur, manfaat, dan yang bisa kamu lakukan.
 icon: mobile-screen-button
 ---
 
@@ -23,19 +23,19 @@ Aplikasi ini mendukung **Bahasa Indonesia** dan **English**. Semua fitur bisa di
   <tbody>
     <tr>
       <td><h4>Manajemen Kehadiran</h4></td>
-      <td><strong>Clock In / Clock Out</strong> dengan GPS dan foto selfie — Lihat <strong>riwayat absensi</strong> — <strong>Koreksi absensi</strong> jika lupa atau salah</td>
+      <td><strong>Clock In / Clock Out</strong> dengan GPS dan foto selfie: Lihat <strong>riwayat absensi</strong>: <strong>Koreksi absensi</strong> jika lupa atau salah</td>
     </tr>
     <tr>
       <td><h4>Pengajuan & Approval</h4></td>
-      <td>Ajukan <strong>cuti</strong>, <strong>lembur</strong>, dan <strong>perubahan shift</strong> — <strong>Profile change request</strong> — Approve / reject dari bawahan (role approver)</td>
+      <td>Ajukan <strong>cuti</strong>, <strong>lembur</strong>, dan <strong>perubahan shift</strong>: <strong>Profile change request</strong>: Approve / reject dari bawahan (role approver)</td>
     </tr>
     <tr>
       <td><h4>Informasi & Dokumen</h4></td>
-      <td>Lihat <strong>slip gaji</strong> & download PDF — Akses <strong>SOP</strong> perusahaan — Baca <strong>pengumuman</strong> — Cek <strong>surat peringatan</strong></td>
+      <td>Lihat <strong>slip gaji</strong> & download PDF: Akses <strong>SOP</strong> perusahaan: Baca <strong>pengumuman</strong>: Cek <strong>surat peringatan</strong></td>
     </tr>
     <tr>
       <td><h4>Tools Pendukung</h4></td>
-      <td><strong>Dashboard</strong> personal — <strong>Tugas</strong> yang perlu dikerjakan — <strong>Direktori karyawan</strong> — <strong>Kalendar</strong> libur & jadwal</td>
+      <td><strong>Dashboard</strong> personal: <strong>Tugas</strong> yang perlu dikerjakan: <strong>Direktori karyawan</strong>: <strong>Kalendar</strong> libur & jadwal</td>
     </tr>
   </tbody>
 </table>

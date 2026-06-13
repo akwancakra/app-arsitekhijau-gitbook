@@ -9,7 +9,7 @@ icon: user-pen
 Modul **Profile Change Request** memungkinkan kamu mengajukan perubahan data profil pribadi tanpa harus datang ke HR. Cukup ajukan melalui aplikasi, dan HR / atasan akan memprosesnya.
 
 {% hint style="info" %}
-**Dokumen Pendukung** — Setiap section perubahan membutuhkan dokumen pendukung yang berbeda. Pastikan kamu menyiapkan dokumen yang sesuai sebelum mengajukan.
+**Dokumen Pendukung**: Setiap section perubahan membutuhkan dokumen pendukung yang berbeda. Pastikan kamu menyiapkan dokumen yang sesuai sebelum mengajukan.
 {% endhint %}
 
 ## Data yang Bisa Diubah
@@ -22,7 +22,7 @@ Modul **Profile Change Request** memungkinkan kamu mengajukan perubahan data pro
       <td><strong>Family Detail</strong><br>Data pasangan, data anak, orang tua</td>
     </tr>
     <tr>
-      <td><strong>Emergency Contact</strong><br>Kontak darurat — nama, hubungan, telepon</td>
+      <td><strong>Emergency Contact</strong><br>Kontak darurat: nama, hubungan, telepon</td>
       <td><strong>Education & Experience</strong><br>Riwayat pendidikan & pengalaman kerja</td>
     </tr>
     <tr>

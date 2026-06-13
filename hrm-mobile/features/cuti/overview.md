@@ -1,6 +1,6 @@
 ---
 description: >-
-  Pengelolaan cuti karyawan — saldo, pengajuan, dan approval.
+  Pengelolaan cuti karyawan: saldo, pengajuan, dan approval.
 icon: beach-umbrella
 ---
 

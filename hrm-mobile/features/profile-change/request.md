@@ -30,7 +30,7 @@ icon: user-pen
 ### Lampiran
 
 {% hint style="info" %}
-**Format File yang Didukung** — Kamu dapat melampirkan dokumen dalam format: **PDF, JPG, JPEG, PNG**. Maksimal ukuran file **5MB** per lampiran.
+**Format File yang Didukung**: Kamu dapat melampirkan dokumen dalam format: **PDF, JPG, JPEG, PNG**. Maksimal ukuran file **5MB** per lampiran.
 {% endhint %}
 {% endtab %}
 
@@ -51,7 +51,7 @@ icon: user-pen
 4. (Opsional) Tambahkan catatan
 
 {% hint style="success" %}
-**Approved** — Permintaan disetujui. Data profil akan langsung terupdate di sistem.
+**Approved**: Permintaan disetujui. Data profil akan langsung terupdate di sistem.
 {% endhint %}
 
 ### Tolak
@@ -61,7 +61,7 @@ icon: user-pen
 3. Konfirmasi
 
 {% hint style="warning" %}
-**Rejected** — Permintaan ditolak. Data profil tidak berubah. Kamu bisa mengajukan ulang setelah memperbaiki alasan atau data.
+**Rejected**: Permintaan ditolak. Data profil tidak berubah. Kamu bisa mengajukan ulang setelah memperbaiki alasan atau data.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -71,8 +71,8 @@ icon: user-pen
 | Status | Arti |
 |---|---|
 | **Pending** | Menunggu approval |
-| **Approved** | Disetujui — data profil sudah diperbarui |
-| **Rejected** | Ditolak — data tidak berubah |
+| **Approved** | Disetujui: data profil sudah diperbarui |
+| **Rejected** | Ditolak: data tidak berubah |
 
 > **Catatan:** Setelah disetujui, data profil akan langsung terupdate di sistem.
 

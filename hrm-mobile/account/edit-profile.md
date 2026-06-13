@@ -23,13 +23,13 @@ Halaman **Edit Profile** memungkinkan kamu mengubah foto profil dan melihat data
 
 1. Tap foto profil saat ini
 2. Pilih sumber foto:
-   - **Kamera** — ambil foto baru langsung dari kamera
-   - **Galeri** — pilih foto yang sudah ada di gallery HP
+   - **Kamera**: ambil foto baru langsung dari kamera
+   - **Galeri**: pilih foto yang sudah ada di gallery HP
 3. Atur posisi foto (crop & zoom) sesuai keinginan
 4. Tap **Simpan** untuk menyimpan perubahan
 
 {% hint style="info" %}
-Foto profil akan langsung terupdate di seluruh sistem — dashboard, profile, dan direktori karyawan.
+Foto profil akan langsung terupdate di seluruh sistem: dashboard, profile, dan direktori karyawan.
 {% endhint %}
 
 ---

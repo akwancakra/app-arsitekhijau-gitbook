@@ -76,7 +76,7 @@ Fitur registrasi mandiri hanya tersedia jika diaktifkan oleh HR. Jika tidak ters
 1. Di halaman login, tap **Lupa Password?**
 2. Masukkan **Email** perusahaan kamu
 3. Tap **Kirim**
-4. Cek email — kamu akan menerima link reset password
+4. Cek email: kamu akan menerima link reset password
 5. Klik link di email, buat password baru
 6. Kembali ke aplikasi dan login dengan password baru
 
@@ -100,7 +100,7 @@ Link reset password memiliki **masa berlaku terbatas**. Jika tidak menerima emai
 Hubungi IT support untuk membuka kunci akun: `it@arsitekhijau.com`
 {% enddetails %}
 
-{% details title="Tidak bisa login — koneksi error" %}
+{% details title="Tidak bisa login: koneksi error" %}
 - Pastikan koneksi internet stabil
 - Coba ganti WiFi ke data seluler (atau sebaliknya)
 - Restart aplikasi

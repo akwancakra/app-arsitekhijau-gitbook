@@ -40,12 +40,12 @@ Masukkan password baru pada field **Password Baru**, lalu ketik ulang di **Konfi
 
 {% step %}
 ### Simpan
-Tap **Simpan** — password berhasil diubah.
+Tap **Simpan**: password berhasil diubah.
 {% endstep %}
 {% endstepper %}
 
 {% hint style="success" %}
-Gunakan password yang **kuat dan unik** — jangan sama dengan akun pribadi lainnya.
+Gunakan password yang **kuat dan unik**: jangan sama dengan akun pribadi lainnya.
 {% endhint %}
 
 ---
@@ -53,7 +53,7 @@ Gunakan password yang **kuat dan unik** — jangan sama dengan akun pribadi lain
 ## Force Change Password
 
 {% hint style="warning" %}
-Dalam situasi tertentu, sistem akan **memaksa** kamu mengganti password saat login. Ini **tidak bisa dilewati** — kamu harus ganti password dulu baru masuk dashboard.
+Dalam situasi tertentu, sistem akan **memaksa** kamu mengganti password saat login. Ini **tidak bisa dilewati**: kamu harus ganti password dulu baru masuk dashboard.
 {% endhint %}
 
 ![Layar force change password](https://placehold.co/600x1200/1a1a2e/ffffff?text=force-change-password)

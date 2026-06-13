@@ -19,8 +19,8 @@ Aplikasi mendukung 3 mode tampilan:
 
 | Mode | Deskripsi |
 |---|---|
-| **Terang** (Light) | Latar putih, teks gelap — default |
-| **Gelap** (Dark) | Latar gelap, teks terang — nyaman di malam hari |
+| **Terang** (Light) | Latar putih, teks gelap: default |
+| **Gelap** (Dark) | Latar gelap, teks terang: nyaman di malam hari |
 | **Sistem** (System) | Mengikuti pengaturan tema HP |
 
 **Cara mengubah:**
@@ -45,7 +45,7 @@ Perubahan tema langsung diterapkan tanpa restart.
    - **English**
 
 {% hint style="success" %}
-Perubahan bahasa diterapkan langsung — tidak perlu restart aplikasi.
+Perubahan bahasa diterapkan langsung: tidak perlu restart aplikasi.
 {% endhint %}
 
 {% endtab %}

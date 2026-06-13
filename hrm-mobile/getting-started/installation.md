@@ -111,7 +111,7 @@ Untuk Android APK langsung, izinkan **Instalasi dari Sumber Tidak Dikenal** di P
 **Aplikasi tidak muncul di Play Store / App Store?**
 Pastikan menggunakan akun region Indonesia, atau hubungi IT.
 
-**Gagal install — storage penuh?**
+**Gagal install: storage penuh?**
 Bersihkan storage HP, minimal perlu ~100MB ruang kosong.
 
 **Aplikasi tidak bisa dibuka setelah install?**

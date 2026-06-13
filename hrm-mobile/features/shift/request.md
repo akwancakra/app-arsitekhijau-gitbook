@@ -54,7 +54,7 @@ Sebagai approver, pastikan kamu memeriksa alasan perubahan shift dan ketersediaa
 | --- | --- |
 | **Pending** ⏳ | Permintaan menunggu approval atasan |
 | **Approved** ✅ | Shift berhasil diubah sesuai permintaan |
-| **Rejected** ❌ | Permintaan ditolak — shift tetap sesuai jadwal awal |
+| **Rejected** ❌ | Permintaan ditolak: shift tetap sesuai jadwal awal |
 {% /table %}
 
 ***

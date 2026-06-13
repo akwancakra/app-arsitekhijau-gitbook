@@ -35,7 +35,7 @@ Masukkan **ulang PIN** untuk konfirmasi.
 {% endstep %}
 
 {% step %}
-PIN aktif — mulai sekarang kamu akan diminta PIN setiap membuka aplikasi.
+PIN aktif: mulai sekarang kamu akan diminta PIN setiap membuka aplikasi.
 {% endstep %}
 {% endstepper %}
 
@@ -60,7 +60,7 @@ Jika lupa PIN, kamu harus verifikasi dengan **password akun** sebelum bisa membu
 1. Di halaman lock screen, tap **Lupa PIN?**
 2. Masukkan **password akun** untuk verifikasi
 3. Buat PIN baru (6 digit)
-4. Selesai — langsung masuk aplikasi
+4. Selesai: langsung masuk aplikasi
 
 ***
 
@@ -85,7 +85,7 @@ Jika HP kamu mendukung **fingerprint** atau **FaceID**, kamu bisa menggunakannya
 
 {% stepper %}
 {% step %}
-Buka **Account → PIN Settings** — pastikan **PIN sudah aktif** terlebih dahulu.
+Buka **Account → PIN Settings**: pastikan **PIN sudah aktif** terlebih dahulu.
 {% endstep %}
 
 {% step %}
@@ -97,7 +97,7 @@ Ikuti verifikasi biometric HP (scan fingerprint atau FaceID).
 {% endstep %}
 
 {% step %}
-Biometric aktif — buka aplikasi cukup dengan sidik jari atau wajah.
+Biometric aktif: buka aplikasi cukup dengan sidik jari atau wajah.
 {% endstep %}
 {% endstepper %}
 

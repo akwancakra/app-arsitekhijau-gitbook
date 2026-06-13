@@ -41,9 +41,9 @@ Digunakan jika **lupa absen** di hari sebelumnya.
 3. Pilih **Past Day Correction**
 4. Pilih **tanggal** yang ingin dikoreksi
 5. Pilih **tipe koreksi**:
-   - **Lupa Clock In** — clock in di hari tersebut
-   - **Lupa Clock Out** — clock out di hari tersebut
-   - **Lupa Keduanya** — clock in & clock out
+   - **Lupa Clock In**: clock in di hari tersebut
+   - **Lupa Clock Out**: clock out di hari tersebut
+   - **Lupa Keduanya**: clock in & clock out
 6. Isi **waktu yang benar**
 7. Tulis **alasan** (wajib)
 8. (Opsional) Lampirkan **dokumen pendukung** (surat dokter, dll)
@@ -70,8 +70,8 @@ Status pengajuan koreksi bisa dilihat di tab **Requests** (icon clipboard di bot
 | Status | Arti |
 | --- | --- |
 | **Pending** ⏳ | Menunggu approval atasan |
-| **Approved** ✅ | Disetujui — absensi sudah diperbaiki |
-| **Rejected** ❌ | Ditolak — absensi tidak berubah |
+| **Approved** ✅ | Disetujui: absensi sudah diperbaiki |
+| **Rejected** ❌ | Ditolak: absensi tidak berubah |
 {% /table %}
 
 ![Daftar status koreksi di tab Requests aplikasi](https://placehold.co/600x400/1a1a2e/ffffff?text=status-koreksi)

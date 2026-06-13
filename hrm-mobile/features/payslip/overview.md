@@ -9,7 +9,7 @@ icon: file-invoice-dollar
 Modul **Slip Gaji** (Payslip) memungkinkan kamu melihat rincian gaji bulanan dan mengunduhnya dalam format PDF.
 
 {% hint style="danger" %}
-**Data Sensitif & Rahasia** — Informasi slip gaji bersifat pribadi dan rahasia. Jangan bagikan detail gaji kamu kepada pihak lain.
+**Data Sensitif & Rahasia**: Informasi slip gaji bersifat pribadi dan rahasia. Jangan bagikan detail gaji kamu kepada pihak lain.
 {% endhint %}
 
 ## Fitur yang Tersedia

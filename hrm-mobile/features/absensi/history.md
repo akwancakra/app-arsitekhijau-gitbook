@@ -17,7 +17,7 @@ Riwayat Absensi menampilkan **daftar record kehadiran** kamu setiap hari. Kamu b
 3. Riwayat ditampilkan dalam bentuk list per hari (terbaru di atas)
 
 {% hint style="info" %}
-Riwayat menggunakan **infinite scroll** — data akan terus dimuat saat kamu scroll ke bawah. Tarik layar ke bawah (**pull-to-refresh**) untuk memuat ulang data terbaru.
+Riwayat menggunakan **infinite scroll**: data akan terus dimuat saat kamu scroll ke bawah. Tarik layar ke bawah (**pull-to-refresh**) untuk memuat ulang data terbaru.
 {% endhint %}
 
 ## Informasi di Setiap Record
@@ -37,7 +37,7 @@ Setiap item riwayat menampilkan:
 
 Tap pada salah satu record untuk melihat detail lengkap:
 
-![Detail record absensi — informasi clock in dan clock out](https://placehold.co/600x1200/1a1a2e/ffffff?text=detail-record)
+![Detail record absensi: informasi clock in dan clock out](https://placehold.co/600x1200/1a1a2e/ffffff?text=detail-record)
 
 {% details title="Lihat Detail Record" %}
 Detail meliputi:

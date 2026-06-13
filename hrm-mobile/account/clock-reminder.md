@@ -26,8 +26,8 @@ Fitur **Clock Reminder** akan mengirimkan notifikasi pengingat untuk clock in da
 ### Cara Setting
 
 1. Aktifkan toggle **Clock Reminder**
-2. Atur **Jam Clock In** — tap untuk memilih jam
-3. Atur **Jam Clock Out** — tap untuk memilih jam
+2. Atur **Jam Clock In**: tap untuk memilih jam
+3. Atur **Jam Clock Out**: tap untuk memilih jam
 4. Perubahan tersimpan otomatis
 
 ## Cara Kerja

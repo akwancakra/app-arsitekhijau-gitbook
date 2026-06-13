@@ -18,7 +18,7 @@ Modul **Organisasi** (Hierarchy / Employee Directory) memungkinkan kamu mencari 
 | **Detail Karyawan** | Informasi lengkap, atasan, dan tim |
 
 {% hint style="info" %}
-**Tips Pencarian** — Kamu bisa mencari karyawan menggunakan **nama** atau **NIP**. Hasil akan terfilter secara real-time saat kamu mengetik.
+**Tips Pencarian**: Kamu bisa mencari karyawan menggunakan **nama** atau **NIP**. Hasil akan terfilter secara real-time saat kamu mengetik.
 {% endhint %}
 
 ## Cara Menggunakan

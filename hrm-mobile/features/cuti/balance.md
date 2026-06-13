@@ -10,7 +10,7 @@ Saldo cuti menampilkan **sisa jatah cuti** kamu untuk setiap jenis cuti pada tah
 
 ## Cara Melihat Saldo Cuti
 
-![Halaman cuti — tampilan saldo di bagian atas](https://placehold.co/600x1200/1a1a2e/ffffff?text=halaman-cuti)
+![Halaman cuti: tampilan saldo di bagian atas](https://placehold.co/600x1200/1a1a2e/ffffff?text=halaman-cuti)
 
 1. Dari **Dashboard Home**, tap icon **🏖️ Cuti**
 2. Atau dari tab **Requests**, pilih tab **Cuti**
@@ -41,11 +41,11 @@ Saldo cuti yang muncul tergantung kebijakan perusahaan dan status karyawan:
 {% table data-view="cards" %}
 | Jenis Cuti | Detail Saldo |
 | --- | --- |
-| **Cuti Tahunan** | 12 hari jatah — sisa menyesuaikan pemakaian |
+| **Cuti Tahunan** | 12 hari jatah: sisa menyesuaikan pemakaian |
 | **Cuti Sakit** | Menyesuaikan kebijakan perusahaan |
-| **Cuti Menikah** | 3 hari (khusus) — tidak mengurangi jatah tahunan |
-| **Cuti Keluarga Meninggal** | 2 hari (khusus) — tidak mengurangi jatah tahunan |
-| **Cuti Haji** | 30 hari (khusus) — tidak mengurangi jatah tahunan |
+| **Cuti Menikah** | 3 hari (khusus): tidak mengurangi jatah tahunan |
+| **Cuti Keluarga Meninggal** | 2 hari (khusus): tidak mengurangi jatah tahunan |
+| **Cuti Haji** | 30 hari (khusus): tidak mengurangi jatah tahunan |
 {% /table %}
 
 ***

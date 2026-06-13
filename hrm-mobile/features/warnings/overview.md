@@ -9,17 +9,17 @@ icon: triangle-exclamation
 Modul **Peringatan** (Warnings) menampilkan surat peringatan yang dikeluarkan oleh HR / Manajemen. Jika ada pelanggaran atau masalah kedisiplinan, surat peringatan akan muncul di sini.
 
 {% hint style="danger" %}
-**Rahasia** — Surat peringatan bersifat rahasia dan hanya boleh diketahui oleh karyawan yang bersangkutan serta pihak HR / Manajemen. Jangan menyebarluaskan isi SP kepada pihak lain.
+**Rahasia**: Surat peringatan bersifat rahasia dan hanya boleh diketahui oleh karyawan yang bersangkutan serta pihak HR / Manajemen. Jangan menyebarluaskan isi SP kepada pihak lain.
 {% endhint %}
 
 ## Status Peringatan
 
 {% hint style="warning" %}
-**⚠️ Aktif** — Surat peringatan masih berlaku. Segera lakukan perbaikan sesuai ketentuan yang tertera.
+**⚠️ Aktif**: Surat peringatan masih berlaku. Segera lakukan perbaikan sesuai ketentuan yang tertera.
 {% endhint %}
 
 {% hint style="success" %}
-**✅ Selesai** — Masa berlaku surat peringatan telah berakhir atau sudah ditindaklanjuti.
+**✅ Selesai**: Masa berlaku surat peringatan telah berakhir atau sudah ditindaklanjuti.
 {% endhint %}
 
 ## Yang Ditampilkan
@@ -47,11 +47,11 @@ Modul **Peringatan** (Warnings) menampilkan surat peringatan yang dikeluarkan ol
 ## Apa yang Harus Dilakukan Jika Mendapat SP?
 
 {% details title="📋 Langkah-langkah menghadapi Surat Peringatan" %}
-1. **Baca dengan Teliti** — Pahami isi pelanggaran dan tindakan yang diharapkan
-2. **Catat Tenggat Waktu** — Perhatikan batas waktu perbaikan yang diberikan
-3. **Konsultasi dengan Atasan** — Jika ada hal yang kurang jelas, segera diskusikan dengan atasan langsung
-4. **Lakukan Perbaikan** — Tindak lanjuti sesuai arahan dalam SP
-5. **Pantau Status** — Pantau status SP melalui aplikasi hingga status berubah menjadi "Selesai"
+1. **Baca dengan Teliti**: Pahami isi pelanggaran dan tindakan yang diharapkan
+2. **Catat Tenggat Waktu**: Perhatikan batas waktu perbaikan yang diberikan
+3. **Konsultasi dengan Atasan**: Jika ada hal yang kurang jelas, segera diskusikan dengan atasan langsung
+4. **Lakukan Perbaikan**: Tindak lanjuti sesuai arahan dalam SP
+5. **Pantau Status**: Pantau status SP melalui aplikasi hingga status berubah menjadi "Selesai"
 {% enddetails %}
 
 ***
